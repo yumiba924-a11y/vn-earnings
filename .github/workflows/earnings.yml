@@ -1,0 +1,47 @@
+name: earnings-watch
+
+on:
+  schedule:
+    # 21:15 JST (12:15 UTC) 毎日。VN企業の開示は夕方〜夜(ICT)に多く、
+    # 当日夜の分は当日、深夜の分は翌日の実行で拾う。オフシーズンも回して害なし
+    - cron: "15 12 * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: earnings-watch
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect-and-build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect earnings (diff detect)
+        run: python scripts/earnings_collector.py
+
+      - name: Build board + brief
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/build_site.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "earnings-bot"
+          git config user.email "actions@github.com"
+          git add -A data docs
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git pull --rebase --autostash origin main
+            git commit -m "auto: earnings watch $(date -u +%Y-%m-%dT%H:%M)Z"
+            git push origin main
+          fi
