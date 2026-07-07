@@ -193,10 +193,10 @@ def event_card(e):
             v, iv = ind[k].get("value"), ind[k].get("industry")
             if v is None:
                 continue
-            mul = 100 if k in ("ROE", "ROA") else 1
-            unit = "%" if mul == 100 else ""
-            ivs = f"（業種 {iv * mul:.1f}{unit}）" if iv is not None else ""
-            ind_rows += f'<div class="kv"><span class="k">{k}</span><span>{v * mul:.1f}{unit}{ivs}</span></div>'
+            # ROE/ROAはAPIが最初から%値を返す（VCB実測: ROE=16.37）
+            unit = "%" if k in ("ROE", "ROA") else ""
+            ivs = f"（業種 {iv:.1f}{unit}）" if iv is not None else ""
+            ind_rows += f'<div class="kv"><span class="k">{k}</span><span>{v:.1f}{unit}{ivs}</span></div>'
     npat_note = ""
     if e.get("npat_yoy") is None and e.get("npat") is not None:
         npat_note = '<div class="note">※前年同期が赤字等のため伸び率は非表示（絶対値で判断）</div>'
