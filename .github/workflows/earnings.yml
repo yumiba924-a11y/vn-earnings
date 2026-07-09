@@ -2,9 +2,10 @@ name: earnings-watch
 
 on:
   schedule:
-    # 21:15 JST (12:15 UTC) 毎日。VN企業の開示は夕方〜夜(ICT)に多く、
-    # 当日夜の分は当日、深夜の分は翌日の実行で拾う。オフシーズンも回して害なし
+    # 1日2回。VN企業の開示は大引け後17-18時ICT(19-20時JST)が多い:
+    # 21:15 JST = 当日夕方の開示を当日中に検知 / 08:45 JST = 深夜分を日本の朝までに検知
     - cron: "15 12 * * *"
+    - cron: "45 23 * * *"
   workflow_dispatch:
 
 concurrency:

@@ -33,6 +33,38 @@ def awaited_quarter(today):
     return (y - 1, 4) if q == 1 else (y, q - 1)
 
 
+def quarter_end(yq):
+    y, q = yq
+    m = q * 3
+    last = {3: 31, 6: 30, 9: 30, 12: 31}[m]
+    return datetime.date(y, m, last)
+
+
+def next_bizday(d):
+    while d.weekday() >= 5:
+        d += datetime.timedelta(days=1)
+    return d
+
+
+def deadlines(yq):
+    """通達96/2020/TT-BTCの提出期限。単体=四半期末+20日 / 連結=+30日。
+    Q2のみ半期レビュー(soát xét)=+45日が追加。土日なら翌営業日。"""
+    qe = quarter_end(yq)
+    out = {
+        "standalone": next_bizday(qe + datetime.timedelta(days=20)),
+        "consolidated": next_bizday(qe + datetime.timedelta(days=30)),
+    }
+    if yq[1] == 2:
+        out["semiannual_review"] = next_bizday(qe + datetime.timedelta(days=45))
+    return out
+
+
+# 注: 当初は NetProfit vs NetProfit_PCSH の乖離で連結/単体を推定したが、
+# VRE・PNJ等は連結決算でも100%子会社ばかりで乖離ゼロ＝単体と誤判定した（2026-07-07検証で判明）。
+# IS 1本から連結区分は確定できないため per銘柄の区分表示はやめ、
+# 拘束力のある連結四半期期限(+30日)を全銘柄共通の基準として出す。
+
+
 def q_label(yq):
     return f"Q{yq[1]}/{yq[0]}"
 
@@ -300,7 +332,7 @@ def main():
 <div class="scroll"><table><tr><th>銘柄</th><th>状態</th><th>検知日</th><th>売上</th><th>売上YoY</th><th>純利益</th><th>純利YoY</th></tr>{t1_rows}</table></div>
 <h2>Tier2（VN100残り）</h2>
 <div class="scroll"><table><tr><th>銘柄</th><th>状態</th><th>検知日</th><th>売上</th><th>売上YoY</th><th>純利益</th><th>純利YoY</th></tr>{t2_rows}</table></div>
-<p class="note">単位: VND。兆=10^12 / 十億=10^9（越語のtỷ）。<a href="brief.html">日本語ブリーフ →</a></p>"""
+<p class="note">単位: VND。兆=10^12 / 十億=10^9（越語のtỷ）。<a href="brief.html">日本語ブリーフ →</a>　<a href="calendar.html">決算カレンダー →</a></p>"""
 
     with open(os.path.join(DOCS, "index.html"), "w", encoding="utf-8") as f:
         f.write(page(f"VN決算ウォッチ {aw_label}", board_body, now))
@@ -329,12 +361,75 @@ def main():
 <h2>本日の新着決算</h2>{new_sec}
 {gem_sec}
 <h2>決算前バズ発火</h2>{fire_tbl}
-<p class="note"><a href="index.html">← 決算ボード（全銘柄マトリクス）</a></p>"""
+<p class="note"><a href="index.html">← 決算ボード（全銘柄マトリクス）</a>　<a href="calendar.html">決算カレンダー →</a></p>"""
 
     with open(os.path.join(DOCS, "brief.html"), "w", encoding="utf-8") as f:
         f.write(page(f"VN決算ブリーフ {today}", brief_body, now))
 
-    print(f"built: index.html({t1_done}/30 reported) brief.html({len(day_events)} new, gemini={'on' if gem else 'off'})")
+    # ---------- calendar ----------
+    dl = deadlines(aw)
+    d_alone, d_cons = dl["standalone"], dl["consolidated"]
+    d_semi = dl.get("semiannual_review")
+
+    def days_to(d):
+        n = (d - today).days
+        return f"あと{n}日" if n > 0 else ("本日" if n == 0 else "期限超過")
+
+    cnt_bar = f"""<div class="bar">
+<div><div class="n">{esc(days_to(d_alone))}</div><div class="l">{d_alone.month}/{d_alone.day} 単体企業の提出期限（四半期末+20日）</div></div>
+<div><div class="n">{esc(days_to(d_cons))}</div><div class="l">{d_cons.month}/{d_cons.day} 連結企業の提出期限（+30日）</div></div>
+{f'<div><div class="n">{esc(days_to(d_semi))}</div><div class="l">{d_semi.month}/{d_semi.day} 半期レビュー済み財務諸表（+45日）</div></div>' if d_semi else ''}
+</div>"""
+
+    timeline = f"""<h2>シーズンの流れ（{esc(aw_label)}）</h2>
+<div class="card" style="max-width:720px">
+<div class="kv"><span class="k">〜{d_alone.month}月中旬</span><span>銀行・証券が先行。速報(ước tính)がイベントやメディア経由で漏れ始める時期</span></div>
+<div class="kv"><span class="k">{d_alone.month}/{d_alone.day}</span><span><b>単体企業（子会社なし）の期限</b>。この前後で第1波の集中</span></div>
+<div class="kv"><span class="k">{d_cons.month}/{d_cons.day}</span><span><b>連結企業の期限</b>。VN30の大半はここ。最終3営業日に密集するのが通例</span></div>
+{f'<div class="kv"><span class="k">{d_semi.month}/{d_semi.day}</span><span>半期レビュー済み（監査法人soát xét）の期限。四半期版からの<b>修正</b>が出る銘柄に注意</span></div>' if d_semi else ''}
+</div>
+<p class="note">根拠: 通達96/2020/TT-BTC。期限が土日の場合は翌営業日。</p>"""
+
+    def cal_rows(symbols):
+        # 未発表を先頭・発表済を後ろに（＝これから来る決算が上に来る）
+        rows = ""
+        pend = [s for s in symbols if state.get(s, {}).get("latest") != aw_label]
+        done = [s for s in symbols if state.get(s, {}).get("latest") == aw_label]
+        for sym in pend + done:
+            st = state.get(sym, {})
+            reported = st.get("latest") == aw_label
+            det = st.get("first_seen", {}).get(aw_label, "")
+            det = "" if det == "baseline" else det
+            left = max((d_cons - today).days, 0)
+            status = (f'<span class="pill done">発表済 {esc(det)}</span>' if reported
+                      else f'<span class="pill wait">未（期限まで{left}日）</span>')
+            rows += (f'<tr><td class="sym">{esc(sym)}</td>'
+                     f'<td>{"VN30" if st.get("tier") == "tier1" else "Tier2"}</td>'
+                     f'<td>{d_cons.month}/{d_cons.day}</td><td>{status}</td></tr>')
+        return rows
+
+    cal_tbl = (f'<div class="scroll"><table><tr><th>銘柄</th><th>層</th>'
+               f'<th>連結期限</th><th>状態</th></tr>{cal_rows(tier1)}{cal_rows(tier2)}</table></div>')
+
+    cal_body = f"""<h1>VN決算カレンダー｜{esc(aw_label)}</h1>
+<div class="sub">ベトナムには「◯日◯時発表」の事前予告文化がない（規制期限に向けて出せた時に出す）。
+確定しているのは<b>規制期限</b>のみ——実際に出た日時はこのシステムが検知して自動で埋めていく</div>
+{cnt_bar}
+{timeline}
+<h2>銘柄別の期限と状態</h2>
+<p class="note">VN30・VN100の大半は子会社を持ち連結決算を出すため、拘束力のある<b>連結四半期期限（+30日）</b>を全銘柄共通の基準に置いた。
+子会社を持たない企業は実際には単体期限（+20日）が適用され、この基準より早く出る。未発表を上に並べている。検知日は発表後に自動記録。</p>
+{cal_tbl}
+<h2>発表時刻について（実測メモ）</h2>
+<p class="note">HSX公式開示のタイムスタンプを観察した範囲（VCB 2026年4-6月・13件）では大半が17-18時台＝大引け後。
+決算も大引け後に出るのが通例。本システムは毎日08:45/21:15 JSTの2回検知するため、夜に出た決算は翌朝までに捕捉される。</p>
+<p class="note"><a href="index.html">← 決算ボード</a>　<a href="brief.html">日本語ブリーフ →</a></p>"""
+
+    with open(os.path.join(DOCS, "calendar.html"), "w", encoding="utf-8") as f:
+        f.write(page(f"VN決算カレンダー {aw_label}", cal_body, now))
+
+    print(f"built: index.html({t1_done}/30 reported) brief.html({len(day_events)} new, "
+          f"gemini={'on' if gem else 'off'}) calendar.html(連結期限{d_cons.month}/{d_cons.day}基準)")
 
 
 if __name__ == "__main__":
