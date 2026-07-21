@@ -21,8 +21,10 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE = os.path.join(ROOT, "data", "state.json")
 COMPANIES = os.path.join(ROOT, "config", "companies.csv")
 REPORTS_DIR = os.path.join(ROOT, "data", "reports")
+NARR_CACHE = os.path.join(ROOT, "data", "narratives.json")
 OUT = os.path.join(ROOT, "docs", "data", "cards.json")
 THROTTLE = 0.3
+GEMINI_GAP = 6.0  # 新規生成どうしの間隔（無料枠の分間制限対策）
 
 
 def awaited_quarter(today):
@@ -120,14 +122,6 @@ def build_card(sym, comp, parsed, label, fx_rate, fx_asof):
     else:
         v = "△ まちまち"
     card["verdict"] = v
-
-    # 背景・見通し（会社開示＋報道ベース）
-    try:
-        srcs = narr.collect_sources(sym, label)
-    except Exception as e:
-        print(f"[warn] sources {sym}: {e}")
-        srcs = []
-    card.update(narr.build_narrative(card, srcs))
     return card
 
 
@@ -142,6 +136,10 @@ def main():
 
     reporters = sorted(s for s, v in state.items() if v.get("latest") == label)
     print(f"対象四半期 {label} / 発表済 {len(reporters)}社 / FX 1JPY={fx_rate:.2f}VND ({fx_asof})")
+
+    # 背景・見通しのキャッシュ（一度Geminiで生成したら再利用＝新規発表分だけ生成）
+    cache = json.load(open(NARR_CACHE, encoding="utf-8")) if os.path.exists(NARR_CACHE) else {}
+    generated = 0
 
     cards = []
     for i, sym in enumerate(reporters):
@@ -159,10 +157,34 @@ def main():
         detected = state[sym].get("first_seen", {}).get(label, "")
         card = build_card(sym, comp, parsed, label, fx_rate, fx_asof)
         card["detected"] = "" if detected == "baseline" else detected
+
+        # 背景・見通し: gemini成功分はキャッシュ再利用、未生成/前回フォールバックのみ生成
+        key = f"{sym}:{label}"
+        cached = cache.get(key)
+        if cached and cached.get("method") == "gemini":
+            narrative = cached
+            tag = "cache"
+        else:
+            if generated:
+                time.sleep(GEMINI_GAP)  # 新規生成の間だけ間隔を空ける
+            try:
+                srcs = narr.collect_sources(sym, label)
+            except Exception as e:
+                print(f"[warn] sources {sym}: {e}")
+                srcs = []
+            narrative = narr.build_narrative(card, srcs)
+            cache[key] = narrative
+            generated += 1
+            tag = narrative.get("method", "?")
+        card.update(narrative)
         cards.append(card)
         print(f"  [{i+1}/{len(reporters)}] {sym} {card['verdict']} 純利YoY={card['npat_yoy']} "
-              f"出典{len(card.get('sources', []))}件")
+              f"出典{len(card.get('sources', []))}件 [{tag}]")
         time.sleep(THROTTLE)
+
+    with open(NARR_CACHE, "w", encoding="utf-8") as f:
+        json.dump(cache, f, ensure_ascii=False, indent=1)
+    print(f"新規生成 narrative: {generated}件（残りはキャッシュ再利用）")
 
     # 並び順: VN30優先→純利益YoY降順
     cards.sort(key=lambda c: (0 if c["tier"] == "tier1" else 1, -(c["npat_yoy"] or -999)))
