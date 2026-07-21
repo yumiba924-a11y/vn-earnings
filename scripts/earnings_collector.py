@@ -63,10 +63,20 @@ def parse_is(payload):
 
 
 def latest_reported(parsed):
-    """NetProfitが非nullな最新の四半期ラベル（無ければNone）。"""
-    npat = parsed["series"].get("NetProfit") or parsed["series"].get("Sales") or []
+    """発表済みの最新四半期ラベル（無ければNone）。
+
+    「発表済み」の判定は Sales が非null かつ 非ゼロ であること。
+    FireAntは未提出の四半期に 0 のプレースホルダ列を挿すことがあり（例: CMG Q2/2026＝
+    売上0・純益0。3月決算等の暦ズレや先行生成）、これを発表と誤検知しないため
+    Sales==0 は未提出扱いにする（2026-07-21 実データで発覚し修正）。"""
+    sales = parsed["series"].get("Sales") or []
+    npat = parsed["series"].get("NetProfit") or []
     for i in range(len(parsed["quarters"]) - 1, -1, -1):
-        if i < len(npat) and npat[i] is not None:
+        s = sales[i] if i < len(sales) else None
+        n = npat[i] if i < len(npat) else None
+        if s:                      # 非null かつ 非ゼロ
+            return parsed["quarters"][i]
+        if s is None and n:        # Salesが元々無い業態向けの保険（純益が非ゼロなら可）
             return parsed["quarters"][i]
     return None
 

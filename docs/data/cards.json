@@ -1,0 +1,342 @@
+{
+ "quarter": "Q2/2026",
+ "updated": "2026-07-21 09:58",
+ "fx_vnd_per_jpy": 161.46,
+ "fx_asof": "Tue, 21 Jul 2026",
+ "count": 7,
+ "cards": [
+  {
+   "symbol": "VPB",
+   "name": "VPBank",
+   "intl": "Vietnam Prosperity Joint Stock Commercial Bank",
+   "sector": "銀行",
+   "tier": "tier1",
+   "quarter": "Q2/2026",
+   "sales": 41928598000000,
+   "sales_jpy": 259681302108.00638,
+   "sales_yoy": 56.7,
+   "npat": 8775909000000,
+   "npat_jpy": 54352866182.202705,
+   "npat_yoy": 77.7,
+   "npat_qoq": 38.7,
+   "per": 6.7,
+   "per_ind": 8.7,
+   "pbr": 1.04,
+   "pbr_ind": 1.37,
+   "roe": 17.4,
+   "roe_ind": 17.1,
+   "peg": 0.09,
+   "net_margin": 20.9,
+   "net_margin_ind": 20.5,
+   "op_margin": 45.0,
+   "foreign": 24.0,
+   "mktcap": 198348090025000.0,
+   "mktcap_jpy": 1228452482201.4814,
+   "verdict": "◎ 増収大幅増益・株価は業種比で割安",
+   "background": "VPBankは2026年第2四半期において、売上が前年同期比56.7%増、純利益が同77.7%増と大幅な増収増益を達成しました。純利益は前四半期比でも38.7%増加し、売上高純利益率は20.9%でした。また、子会社のCake by VPBankは、高水準の6ヶ月定期預金金利9%を提供しています。",
+   "outlook": "当該四半期における純利益変動については、会社からの説明が開示されています。VPBankの現在のPERは6.7（業種平均8.7）であり、ROEは17.4%です。",
+   "sources": [
+    {
+     "source": "HSX",
+     "date": "2026-07-17T16:19",
+     "title": "VPB: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+    },
+    {
+     "source": "Báo Lao Động",
+     "date": "2026-07-20T23:13",
+     "title": "Gửi tiết kiệm ngắn hạn 6 tháng lãi suất cao 9%"
+    },
+    {
+     "source": "Tạp chí Nhịp sống thị trường",
+     "date": "2026-07-20T11:12",
+     "title": "Cập nhật BCTC quý 2/2026 chiều ngày 20/7: Một công ty điện báo lỗ"
+    }
+   ],
+   "detected": "2026-07-18"
+  },
+  {
+   "symbol": "GEE",
+   "name": "Gelex Electric., JSC",
+   "intl": "Gelex Electricity Joint Stock Company",
+   "sector": "電機",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 9523911487015,
+   "sales_jpy": 58985557688.083305,
+   "sales_yoy": 46.3,
+   "npat": 740185325471,
+   "npat_jpy": 4584276562.730473,
+   "npat_yoy": 30.8,
+   "npat_qoq": 22.2,
+   "per": 13.7,
+   "per_ind": 14.2,
+   "pbr": 6.04,
+   "pbr_ind": 2.4,
+   "roe": 44.9,
+   "roe_ind": 12.9,
+   "peg": 0.45,
+   "net_margin": 7.8,
+   "net_margin_ind": 6.3,
+   "op_margin": 10.7,
+   "foreign": 1.0,
+   "mktcap": 48677940036000.0,
+   "mktcap_jpy": 301482793497.7443,
+   "verdict": "◎ 増収大幅増益・株価は業種比で割安",
+   "background": "Gelex Electric (GEE) の2026年第2四半期は、電力機器の中核事業における好調な需要が継続して業績に反映されたと報告されています。これにより、売上高は前年同期比46.3%増、純利益は同30.8%増と、利益成長の勢いを維持しました。この期間の売上高純利益率は7.8%でした。",
+   "outlook": "GEEは将来の成長に向けて、研究開発（R&D）への投資を拡大し、2035年までに新製品で10兆ベトナムドン（VND）の売上高達成を目指す方針が示されています。これは同社の長期的な事業展開における主要な論点となりそうです。",
+   "sources": [
+    {
+     "source": "Nhà đầu tư",
+     "date": "2026-07-17T18:17",
+     "title": "GEE: Doanh thu quý II tăng gần gấp rưỡi, GEE duy trì đà tăng lợi nhuận nhờ hoạt động cốt lõi"
+    },
+    {
+     "source": "Asean Times",
+     "date": "2026-04-09T10:53",
+     "title": "GEE: Gelex Electric tham vọng đạt 10.000 tỷ đồng doanh thu từ sản phẩm mới"
+    }
+   ],
+   "detected": "2026-07-18"
+  },
+  {
+   "symbol": "BSI",
+   "name": "BSC",
+   "intl": "BIDV Securities Joint Stock Company",
+   "sector": "証券",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 616834996675,
+   "sales_jpy": 3820316508.6118975,
+   "sales_yoy": 21.8,
+   "npat": 123215863134,
+   "npat_jpy": 763127252.1680553,
+   "npat_yoy": 20.9,
+   "npat_qoq": 38.7,
+   "per": 15.4,
+   "per_ind": 14.7,
+   "pbr": 1.41,
+   "pbr_ind": 1.56,
+   "roe": 9.6,
+   "roe_ind": 12.7,
+   "peg": 0.74,
+   "net_margin": 20.0,
+   "net_margin_ind": 33.9,
+   "op_margin": 23.6,
+   "foreign": 35.6,
+   "mktcap": 8056561237650.0,
+   "mktcap_jpy": 49897645342.347084,
+   "verdict": "○ 増収増益",
+   "background": "BSCの2026年第2四半期決算は、売上高が前年同期比21.8%増、純利益が同20.9%増（前期比38.7%増）となり、堅調な業績を示しました。売上高純利益率は20.0%でした。主要報道によると、BSCを含む複数の証券会社が同時期に大幅な利益増加を報告しており、業界全体の好調な傾向と一致している可能性があります。",
+   "outlook": "PERは15.4と業界平均（14.7）をやや上回っており、ROEは9.6%でした。今後も業界全体の動向と市場評価が注目されるでしょう。",
+   "sources": [
+    {
+     "source": "HSX",
+     "date": "2026-03-30T13:28",
+     "title": "BSI: Giải trình biến động LNST năm 2025 so với cùng kỳ năm trước"
+    },
+    {
+     "source": "Tạp chí Nhịp sống thị trường",
+     "date": "2026-07-20T13:20",
+     "title": "Cập nhật số liệu CTCK chiều 20/7: Sát \"deadline\", Chứng khoán VPS, BSC, KB Việt Nam đồng loạt báo lãi quý 2 tăng mạnh"
+    },
+    {
+     "source": "Tạp chí Nhịp sống thị trường",
+     "date": "2026-07-02T22:33",
+     "title": "Công ty con của Tập đoàn Bcons huy động thêm 140 tỷ đồng trái phiếu, lãi suất cố định 12%/năm"
+    }
+   ],
+   "detected": "2026-07-21"
+  },
+  {
+   "symbol": "BMP",
+   "name": "BM PLASCO",
+   "intl": "Binh Minh Plastics Joint Stock Company",
+   "sector": "樹脂・化学",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 1319560280244,
+   "sales_jpy": 8172587401.65287,
+   "sales_yoy": 0.9,
+   "npat": 367189104893,
+   "npat_jpy": 2274155336.1380596,
+   "npat_yoy": 11.3,
+   "npat_qoq": 20.8,
+   "per": 9.9,
+   "per_ind": 11.5,
+   "pbr": 4.45,
+   "pbr_ind": 1.49,
+   "roe": 45.4,
+   "roe_ind": 12.2,
+   "peg": 0.87,
+   "net_margin": 27.8,
+   "net_margin_ind": 9.0,
+   "op_margin": 34.7,
+   "foreign": 81.6,
+   "mktcap": 12680259296200.0,
+   "mktcap_jpy": 78534136655.47244,
+   "verdict": "○ 増収増益・割安",
+   "background": "BM PLASCO (BMP)の2026年第2四半期は、純利益が前年同期比11.3%増、前期比20.8%増となり、過去最高の四半期利益を記録したと報じられました。売上高は前年同期比0.9%増と微増でしたが、売上高純利益率は27.8%に達しました。企業は利益変動の説明を開示しているものの、今期の具体的な要因については、提供された資料からは確認できませんでした。",
+   "outlook": "過去最高の純利益とROE 45.4%の高い収益性を誇る一方で、売上高の伸びは限定的であり、今後の持続的成長には売上拡大が鍵となる可能性があります。PERは業種平均を下回っており、市場からの評価の動向も注目されます。",
+   "sources": [
+    {
+     "source": "HSX",
+     "date": "2026-03-30T17:59",
+     "title": "BMP: Giải trình chênh lệch LNST năm 2025 so với cùng kỳ năm trước"
+    },
+    {
+     "source": "Người đưa tin",
+     "date": "2026-07-20T14:25",
+     "title": "BMP: Nhựa Bình Minh lãi kỷ lục, ban lãnh đạo thu nhập tiền tỷ"
+    },
+    {
+     "source": "Tạp chí Nhịp sống thị trường",
+     "date": "2026-07-20T11:12",
+     "title": "Cập nhật BCTC quý 2/2026 chiều ngày 20/7: Một công ty điện báo lỗ"
+    }
+   ],
+   "detected": "2026-07-21"
+  },
+  {
+   "symbol": "IMP",
+   "name": "Imexpharm",
+   "intl": "Imexpharm Corporation",
+   "sector": "ヘルスケア",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 562235220164,
+   "sales_jpy": 3482157310.940117,
+   "sales_yoy": -11.1,
+   "npat": 93927293600,
+   "npat_jpy": 581730920.3977919,
+   "npat_yoy": 4.0,
+   "npat_qoq": 14.5,
+   "per": 16.1,
+   "per_ind": 13.1,
+   "pbr": 2.48,
+   "pbr_ind": 1.71,
+   "roe": 16.1,
+   "roe_ind": 13.1,
+   "peg": 4.02,
+   "net_margin": 16.7,
+   "net_margin_ind": 8.8,
+   "op_margin": 20.9,
+   "foreign": 72.7,
+   "mktcap": 5798437419300.0,
+   "mktcap_jpy": 35912142333.86988,
+   "verdict": "△ まちまち",
+   "background": "Imexpharm (IMP) の2026年Q2決算では、売上高が前年同期比で11.1%減少したものの、純利益は前年同期比で4.0%増、前期比では14.5%増となりました。市場全体の停滞が見られる中で、同社は純利益の成長を維持し、売上高純利益率は16.7%を記録しました。",
+   "outlook": "Tạp chí財政の報道によると、Q2には売上高に回復の兆しが見られ、同社は年間売上目標3,200億ドン達成に向けて前向きな見通しを示している模様です。ただし、PERが業種平均を上回っている点については、今後の市場評価における論点となる可能性があります。",
+   "sources": [
+    {
+     "source": "HSX",
+     "date": "2026-04-20T16:53",
+     "title": "IMP: Giải trình biến động LNST trên BCTC quý 1/2026 so với cùng kỳ năm trước"
+    },
+    {
+     "source": "Tạp chí tài chính",
+     "date": "2026-07-20T15:49",
+     "title": "IMP: Imexpharm công bố kết quả kinh doanh 6 tháng 2026 lợi nhuận trước thuế tăng 5%"
+    },
+    {
+     "source": "Asean Times",
+     "date": "2026-07-15T10:44",
+     "title": "AGP: Agimexpharm báo lãi tăng 15% trong quý 2 dù chịu áp lực từ giá nguyên liệu"
+    }
+   ],
+   "detected": "2026-07-21"
+  },
+  {
+   "symbol": "CTS",
+   "name": "VBSE",
+   "intl": "Vietinbank Securities Joint Stock Company",
+   "sector": "証券",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 357099001625,
+   "sales_jpy": 2211663116.506998,
+   "sales_yoy": -38.3,
+   "npat": 15436425569,
+   "npat_jpy": 95604224.39241214,
+   "npat_yoy": -91.2,
+   "npat_qoq": -76.6,
+   "per": 17.6,
+   "per_ind": 14.7,
+   "pbr": 2.31,
+   "pbr_ind": 1.56,
+   "roe": 14.0,
+   "roe_ind": 12.7,
+   "peg": null,
+   "net_margin": 4.3,
+   "net_margin_ind": 33.9,
+   "op_margin": 5.2,
+   "foreign": 0.7,
+   "mktcap": 6615552017700.0,
+   "mktcap_jpy": 40972873982.563995,
+   "verdict": "▲ 減益",
+   "background": "VBSE（CTS・証券）の2026年第2四半期決算は、売上高が前年同期比38.3%減、純利益が同91.2%減（前期比76.6%減）と大幅な減益となりました。同社は、前年同期との純利益の差異について公式な説明を開示しています。主要報道によると、この期間の証券市場の流動性低下や、指数上昇が一部の大型株に偏ったことが、多くの証券会社の自己売買やブローカレッジ部門に影響を与えた可能性があります。",
+   "outlook": "2026年第2四半期に証券市場全体で流動性の低下や、指数上昇が一部の大型株に偏ったことが証券会社の業績に影響を与えたことを踏まえると、今後の市場環境の動向が同社の業績回復における重要な論点となるかもしれません。",
+   "sources": [
+    {
+     "source": "HSX",
+     "date": "2026-07-17T17:52",
+     "title": "CTS: Giải trình chênh lệch LNST quý 2/2026 so với cùng kỳ năm trước"
+    },
+    {
+     "source": "Nhà đầu tư",
+     "date": "2026-07-20T00:04",
+     "title": "Nhiều công ty chứng khoán báo lợi nhuận quý II/2026 giảm mạnh"
+    },
+    {
+     "source": "Tạp chí Nhịp sống thị trường",
+     "date": "2026-07-17T23:48",
+     "title": "Cập nhật BCTC quý 2/2026 ngày 18/7: VPBank, TPBank cùng hàng loạt doanh nghiệp công bố, nhiều doanh nghiệp tăng hàng nghìn %"
+    }
+   ],
+   "detected": "2026-07-18"
+  },
+  {
+   "symbol": "VIX",
+   "name": "VIX",
+   "intl": "VIX Securities Joint Stock Company",
+   "sector": "証券",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 1349303071717,
+   "sales_jpy": 8356796919.4153185,
+   "sales_yoy": -31.7,
+   "npat": 75882025127,
+   "npat_jpy": 469969043.36204654,
+   "npat_yoy": -94.2,
+   "npat_qoq": -45.2,
+   "per": 7.9,
+   "per_ind": 14.7,
+   "pbr": 0.96,
+   "pbr_ind": 1.56,
+   "roe": 15.7,
+   "roe_ind": 12.7,
+   "peg": null,
+   "net_margin": 5.6,
+   "net_margin_ind": 33.9,
+   "op_margin": 5.6,
+   "foreign": 7.4,
+   "mktcap": 31363683481600.0,
+   "mktcap_jpy": 194248378288.3763,
+   "verdict": "▲ 減益",
+   "background": "VIXの2026年第2四半期決算は、売上高が前年同期比で31.7%減少し、純利益は前年同期比94.2%減、前期比でも45.2%減と大幅な減少を記録しました。これは、市場全体の流動性が維持され多くの証券会社が業績を改善する中で、一部のトップ企業と他の主要企業との間で利益の格差が拡大し、多くの「有力企業」が最大95%の減少を示したという業界報道に一致する動きです。第2四半期において、市場の流動性が減少したことや、指数の上昇が一部の大型株によって牽引されたことが、多くの証券会社の自己勘定取引および仲介業務に影響を与えた可能性が指摘されています。",
+   "outlook": "証券業界全体で利益の二極化が進行しており、引き続き上位企業が市場を牽引する一方で、多くの主要企業は厳しい環境に置かれる可能性があります。市場流動性の動向や特定の銘柄への集中が継続する場合、VIXの収益性、特に自己勘定取引や仲介業務の回復が今後の業績における主要な論点となり得るでしょう。",
+   "sources": [
+    {
+     "source": "Thời báo kinh doanh",
+     "date": "2026-07-20T08:57",
+     "title": "Lợi nhuận ngành chứng khoán phân hóa mạnh: Có công ty lãi hơn 2.000 tỷ, nhiều \"tên tuổi\" giảm tới 95%"
+    },
+    {
+     "source": "Nhà đầu tư",
+     "date": "2026-07-20T00:04",
+     "title": "Nhiều công ty chứng khoán báo lợi nhuận quý II/2026 giảm mạnh"
+    }
+   ],
+   "detected": "2026-07-21"
+  }
+ ]
+}

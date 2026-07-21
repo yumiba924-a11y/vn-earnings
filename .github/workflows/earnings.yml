@@ -29,10 +29,15 @@ jobs:
       - name: Collect earnings (diff detect)
         run: python scripts/earnings_collector.py
 
-      - name: Build board + brief
+      - name: Build board + brief + calendar
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/build_site.py
+
+      - name: Build earnings cards (numbers + sourced narrative)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/build_cards.py
 
       - name: Commit & push
         run: |
