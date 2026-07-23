@@ -181,5 +181,112 @@
    }
   ],
   "method": "gemini"
+ },
+ "ANV:Q2/2026": {
+  "background": "NAVICO（ANV）の2026年第2四半期決算では、売上高が前年同期比12.2%増加したものの、純利益は同59.5%減、前期比31.0%減と大幅に減少しました。売上高純利益率は7.0%でした。一方で、報道ではパンガシウスやティラピアの輸出好調が2026年通期の利益を牽引するとの見方があり、会社は年間で1兆700億ベトナムドンの利益計画を公表しています。",
+  "outlook": "第2四半期の大幅な純利益減少にもかかわらず、報道や企業の計画では2026年通期の業績は輸出の好調により大きく改善し、過去最高益を更新する可能性が示唆されています。現在のPERが業界平均（15.3）を大きく下回る5.3、かつROEが高い水準（24.3%）にあることから、今後の動向が注目されるでしょう。",
+  "sources": [
+   {
+    "source": "Thời báo ngân hàng",
+    "date": "2026-07-17T11:45",
+    "title": "Xuất khẩu cá tra, rô phi khởi sắc kéo lợi nhuận Nam Việt bứt phá"
+   },
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-06-09T22:23",
+    "title": "ANV: Nam Việt lên kế hoạch lãi 1.070 tỷ đồng trong năm 2026"
+   }
+  ],
+  "method": "gemini"
+ },
+ "DSE:Q2/2026": {
+  "background": "DNSE証券の2026年第2四半期決算では、売上高が前年同期比56.1%増となり、上半期全体での売上高は約59%増加しました。純利益は前年同期比13.2%増、前期比では632.9%増と大幅に伸長し、売上高純利益率は18.3%を記録しました。これは、Q1/2026からの売上高成長の勢いを維持していると報じられています。",
+  "outlook": "しかしながら、PERが38.8と業種平均の14.1と比較して高い水準にあり、ROEは5.0%に留まっています。今後の市場環境と合わせて、収益性の持続や株価の評価については引き続き検討の余地があるかもしれません。",
+  "sources": [
+   {
+    "source": "Asean Times",
+    "date": "2026-07-21T14:06",
+    "title": "Doanh thu hoạt động DNSE tăng gần 60% trong 6 tháng đầu năm"
+   },
+   {
+    "source": "Vietnam+",
+    "date": "2026-04-18T11:46",
+    "title": "DNSE nối tiếp đà tăng trưởng doanh thu và dư nợ margin"
+   }
+  ],
+  "method": "gemini"
+ },
+ "FTS:Q2/2026": {
+  "background": "2026年第2四半期において、FPTSは売上高が前年同期比29.4%、純利益が同28.8%の増加を記録しました。一方で、純利益は前期比で51.2%減少しています。上半期では利益計画の50%超を達成しており、これは主に自己勘定取引と融資部門の貢献によるものですが、仲介手数料収入は減少傾向にありました。",
+  "outlook": "業界全体の収益が大きく二極化している状況下で、FPTSは上半期で利益計画の50%超を達成したものの、仲介手数料収入の減少と自己勘定取引および融資への依存度増加は、今後の収益構造において注視すべき点となる可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-07-22T09:12",
+    "title": "Lợi nhuận công ty chứng khoán quý II: Lãi lớn và lỗ sâu"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-07-21T16:23",
+    "title": "FTS: Chứng khoán FPT hoàn thành hơn 50% kế hoạch lợi nhuận sau 6 tháng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HCM:Q2/2026": {
+  "background": "HSC（HCM）の2026年第2四半期の純利益は前年同期比で42.0%増加し、売上も15.1%増加しました。これは主に証拠金貸付事業が主要な成長牽引役となったことによるものです。一方で、純利益は前期比では減少しており、証券業界全体では上位企業の利益競争が激化している様子がうかがえます。",
+  "outlook": "今後の事業は、引き続き証拠金貸付事業の動向に大きく左右されると推測されます。また、PERが業種平均を上回っている点や、純利益が前期比で減少したことなど、今後の推移や業界内での競争状況は注視すべき論点と考えられます。",
+  "sources": [
+   {
+    "source": "Asean Times",
+    "date": "2026-07-22T13:51",
+    "title": "So kè lợi nhuận nhóm công ty chứng khoán đầu ngành"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-21T22:56",
+    "title": "HCM: Cho vay margin tiếp tục dẫn dắt doanh thu, Chứng khoán TP.HCM (HCM) báo lãi quý II tăng hơn 40%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "NT2:Q2/2026": {
+  "background": "NT2は2026年第2四半期に売上高35.7%増（YoY）、純利益23.5%増（YoY）を達成し、前期比では123.9%増となりました。この業績は、電力セクターを含む上半期決算発表が本格化した時期に開示され、同社は利益変動について公式開示で説明を行っています。",
+  "outlook": "業界全体では、猛暑が収益発表シーズンを活性化させた一方で、電力セクターが高水準の利益を維持することは難しいとの見方があります。特に熱電グループは業績が二極化すると予測されており、NT2が今後も安定した収益性を維持できるかが注目されます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-04-21T17:56",
+    "title": "NT2: Bổ sung BCTC quý 1/2026 kèm giải trình KQKD quý 1/2026"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-21T18:39",
+    "title": "Cập nhật BCTC quý 2/2026 chiều tối ngày 21/7: Techcombank lãi trước thuế gần 9.700 tỷ đồng, doanh nghiệp của tỷ phú Phạm Nhật Vượng báo lãi tăng 15%"
+   },
+   {
+    "source": "Vietnam Finance",
+    "date": "2026-07-08T23:56",
+    "title": "Nắng nóng kích hoạt mùa báo lãi, lợi nhuận ngành điện vẫn khó duy trì mức cao"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VND:Q2/2026": {
+  "background": "VNDIRECTの2026年第2四半期決算では、純利益が前年同期比139.5%、前期比61.8%と大幅な伸びを示しました。報道によれば、上半期の税引前利益は85%増加し、収益構造において資本市場活動が新たな成長ドライバーとなりつつあるとされています。一方、当四半期の業界利益ではVPBankSがトップに浮上したと報じられています。",
+  "outlook": "収益構造の転換により資本市場活動が新たな成長ドライバーとなる可能性があるため、今後の収益源の安定性および成長性に対する注視が求められます。業界内の競争が激化する中で、VNDIRECTがどのように市場での地位を確立していくかが今後の論点となり得ます。",
+  "sources": [
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-07-22T16:00",
+    "title": "VND: Lợi nhuận VNDIRECT tăng 85%, cơ cấu nguồn thu đổi chiều"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-22T13:51",
+    "title": "So kè lợi nhuận nhóm công ty chứng khoán đầu ngành"
+   }
+  ],
+  "method": "gemini"
  }
 }
