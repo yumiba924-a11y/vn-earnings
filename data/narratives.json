@@ -288,5 +288,71 @@
    }
   ],
   "method": "gemini"
+ },
+ "EVF:Q2/2026": {
+  "background": "EVN Finance (EVF) の2026年第2四半期は、売上が前年同期比57.1%増、純利益が同19.7%増、前期比でも8.6%増となり、同社は税引後純利益の前年同期比変動について説明を開示しました。2026年第1四半期に前年同期比8.1%の利益成長を記録しており、年初から成長の勢いを維持していると見られます。しかし、過去5年間の好調な事業結果とは対照的に、株価は市場で低迷しているとの報道もあります。",
+  "outlook": "第1四半期から続く堅調な業績成長の勢いが今後も維持されるかどうかが注目されます。同時に、過去の好調な業績が株価に十分に反映されていないという報道もあり、現在の業績拡大が今後株価にどのように影響するかが主な論点となるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-21T09:25",
+    "title": "EVF: Giải trình chênh lệch LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "An ninh tiền tệ",
+    "date": "2026-04-21T14:11",
+    "title": "EVF: Duy trì đà tăng trưởng, lợi nhuận quý I/2026 tăng 8,1%"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-04-06T23:39",
+    "title": "EVF: Kết quả kinh doanh khả quan, vì sao cổ phiếu EVF lại không đạt kỳ vọng?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HT1:Q2/2026": {
+  "background": "Vicem Ha tien J.S.CO. (HT1) は2026年第2四半期の業績結果を公表しました。当四半期の売上高は前年同期比17.1%増、純利益は前年同期比23.1%増、前期比77.6%増となり、売上高純利益率は6.1%でした。これは、第1四半期に780億ドンの純利益を記録し、前年同期の損失から改善した流れを受けてのものです。",
+  "outlook": "同社は2026年通期で4000億ドンを超える利益目標を設定しており、第2四半期の純利益の伸びがその達成に向けた一助となる可能性があります。一方で、同社のPERは12.1と業種平均の10.7を上回っており、今後の動向が注目されます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-21T10:03",
+    "title": "HT1: Giải trình kết quả kinh doanh Quý 2 năm 2026"
+   },
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-05-21T18:14",
+    "title": "HT1: Xi măng Vicem Hà Tiên đặt mục tiêu lãi năm 2026 hơn 400 tỷ đồng"
+   },
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-04-30T01:13",
+    "title": "HT1: Báo lãi 78 tỷ đồng quý I/2026, đặt mục tiêu lợi nhuận quý II đạt 132 tỷ đồng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SZC:Q2/2026": {
+  "background": "SZCの2026年第2四半期決算において、売上高は前年同期比39.3%減、純利益は同80.0%減と大幅な減益を記録し、会社は純利益の変動に関する説明を開示しました。純利益率は14.3%でした。報道では、工業団地不動産セクターが第2四半期の利益成長を牽引するとの見通しがある一方、同セクターの利益が「底を打った」とする見方も示されていました。",
+  "outlook": "純利益は前四半期比で10.5%増加しましたが、前年同期比では引き続き大幅な減少となりました。市場では、工業団地不動産が利益成長を牽引すると予測される一方で、すでに利益が底を打ったという見方もあり、今後の業績動向が注目されます。現状のPERは21.2で業種平均22.7を下回り、ROEは5.2%です。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-21T09:23",
+    "title": "SZC: Giải trình biến động LNST BCTC HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-01T09:23",
+    "title": "Ngành nào sẽ dẫn dắt tăng trưởng lợi nhuận quý II?"
+   },
+   {
+    "source": "Tạp chí Nhà quản trị",
+    "date": "2026-06-26T06:26",
+    "title": "Bất động sản khu công nghiệp 'chạm đáy' lợi nhuận"
+   }
+  ],
+  "method": "gemini"
  }
 }

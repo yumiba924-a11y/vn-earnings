@@ -1,6 +1,6 @@
 {
  "ACB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -8,7 +8,7 @@
   "tier": "tier1"
  },
  "ANV": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-23"
@@ -17,7 +17,7 @@
   "tier": "tier2"
  },
  "BAF": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -25,7 +25,7 @@
   "tier": "tier2"
  },
  "BCM": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -33,7 +33,7 @@
   "tier": "tier2"
  },
  "BID": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -41,7 +41,7 @@
   "tier": "tier1"
  },
  "BMP": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-21"
@@ -50,7 +50,7 @@
   "tier": "tier2"
  },
  "BSI": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-21"
@@ -59,7 +59,7 @@
   "tier": "tier2"
  },
  "BSR": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -67,7 +67,7 @@
   "tier": "tier1"
  },
  "BVH": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -75,7 +75,7 @@
   "tier": "tier2"
  },
  "BWE": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -83,7 +83,7 @@
   "tier": "tier2"
  },
  "CII": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -91,7 +91,7 @@
   "tier": "tier2"
  },
  "CMG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -99,7 +99,7 @@
   "tier": "tier2"
  },
  "CTD": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -107,7 +107,7 @@
   "tier": "tier2"
  },
  "CTG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -115,7 +115,7 @@
   "tier": "tier1"
  },
  "CTR": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -123,7 +123,7 @@
   "tier": "tier2"
  },
  "CTS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-18"
@@ -132,7 +132,7 @@
   "tier": "tier2"
  },
  "DBC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -140,7 +140,7 @@
   "tier": "tier2"
  },
  "DCM": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -148,7 +148,7 @@
   "tier": "tier2"
  },
  "DGW": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -156,7 +156,7 @@
   "tier": "tier2"
  },
  "DIG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -164,7 +164,7 @@
   "tier": "tier2"
  },
  "DPM": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -172,7 +172,7 @@
   "tier": "tier2"
  },
  "DSE": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-23"
@@ -181,7 +181,7 @@
   "tier": "tier2"
  },
  "DXG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -189,7 +189,7 @@
   "tier": "tier2"
  },
  "DXS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -197,7 +197,7 @@
   "tier": "tier2"
  },
  "EIB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -205,15 +205,16 @@
   "tier": "tier2"
  },
  "EVF": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-07-24"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "FPT": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -221,7 +222,7 @@
   "tier": "tier1"
  },
  "FRT": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -229,7 +230,7 @@
   "tier": "tier2"
  },
  "FTS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-23"
@@ -238,7 +239,7 @@
   "tier": "tier2"
  },
  "GAS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -246,7 +247,7 @@
   "tier": "tier1"
  },
  "GEE": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-18"
@@ -255,7 +256,7 @@
   "tier": "tier2"
  },
  "GEX": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -263,7 +264,7 @@
   "tier": "tier2"
  },
  "GMD": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -271,7 +272,7 @@
   "tier": "tier2"
  },
  "GVR": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -279,7 +280,7 @@
   "tier": "tier1"
  },
  "HAG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -287,7 +288,7 @@
   "tier": "tier2"
  },
  "HCM": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-23"
@@ -296,7 +297,7 @@
   "tier": "tier2"
  },
  "HDB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -304,7 +305,7 @@
   "tier": "tier1"
  },
  "HDC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -312,7 +313,7 @@
   "tier": "tier2"
  },
  "HDG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -320,7 +321,7 @@
   "tier": "tier2"
  },
  "HHV": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -328,7 +329,7 @@
   "tier": "tier2"
  },
  "HPG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -336,7 +337,7 @@
   "tier": "tier1"
  },
  "HSG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -344,15 +345,16 @@
   "tier": "tier2"
  },
  "HT1": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-07-24"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "IMP": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-21"
@@ -361,7 +363,7 @@
   "tier": "tier2"
  },
  "KBC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -369,7 +371,7 @@
   "tier": "tier2"
  },
  "KDC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -377,7 +379,7 @@
   "tier": "tier2"
  },
  "KDH": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -385,7 +387,7 @@
   "tier": "tier2"
  },
  "KOS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -393,7 +395,7 @@
   "tier": "tier2"
  },
  "LPB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-22"
@@ -402,7 +404,7 @@
   "tier": "tier1"
  },
  "MBB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -410,7 +412,7 @@
   "tier": "tier1"
  },
  "MSB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -418,7 +420,7 @@
   "tier": "tier2"
  },
  "MSN": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -426,7 +428,7 @@
   "tier": "tier1"
  },
  "MWG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -434,7 +436,7 @@
   "tier": "tier1"
  },
  "NAB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -442,7 +444,7 @@
   "tier": "tier2"
  },
  "NKG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -450,7 +452,7 @@
   "tier": "tier2"
  },
  "NLG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -458,7 +460,7 @@
   "tier": "tier2"
  },
  "NT2": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-23"
@@ -467,7 +469,7 @@
   "tier": "tier2"
  },
  "NVL": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -475,7 +477,7 @@
   "tier": "tier2"
  },
  "OCB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -483,7 +485,7 @@
   "tier": "tier2"
  },
  "PAN": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -491,7 +493,7 @@
   "tier": "tier2"
  },
  "PC1": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -499,7 +501,7 @@
   "tier": "tier2"
  },
  "PDR": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -507,7 +509,7 @@
   "tier": "tier2"
  },
  "PHR": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -515,7 +517,7 @@
   "tier": "tier2"
  },
  "PLX": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -523,7 +525,7 @@
   "tier": "tier1"
  },
  "PNJ": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -531,7 +533,7 @@
   "tier": "tier2"
  },
  "POW": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -539,7 +541,7 @@
   "tier": "tier2"
  },
  "PVD": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -547,7 +549,7 @@
   "tier": "tier2"
  },
  "PVT": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -555,7 +557,7 @@
   "tier": "tier2"
  },
  "REE": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -563,7 +565,7 @@
   "tier": "tier2"
  },
  "SAB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -571,7 +573,7 @@
   "tier": "tier1"
  },
  "SBT": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -579,7 +581,7 @@
   "tier": "tier2"
  },
  "SCS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-22"
@@ -588,7 +590,7 @@
   "tier": "tier2"
  },
  "SHB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -596,7 +598,7 @@
   "tier": "tier1"
  },
  "SIP": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -604,7 +606,7 @@
   "tier": "tier2"
  },
  "SJS": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -612,7 +614,7 @@
   "tier": "tier2"
  },
  "SSB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -620,7 +622,7 @@
   "tier": "tier1"
  },
  "SSI": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -628,7 +630,7 @@
   "tier": "tier1"
  },
  "STB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -636,15 +638,16 @@
   "tier": "tier1"
  },
  "SZC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-07-24"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "TCB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -652,7 +655,7 @@
   "tier": "tier1"
  },
  "TCH": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -660,7 +663,7 @@
   "tier": "tier2"
  },
  "TPB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -668,7 +671,7 @@
   "tier": "tier1"
  },
  "VCB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -676,7 +679,7 @@
   "tier": "tier1"
  },
  "VCG": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -684,7 +687,7 @@
   "tier": "tier2"
  },
  "VCI": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -692,7 +695,7 @@
   "tier": "tier2"
  },
  "VGC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -700,7 +703,7 @@
   "tier": "tier2"
  },
  "VHC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -708,7 +711,7 @@
   "tier": "tier2"
  },
  "VHM": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -716,7 +719,7 @@
   "tier": "tier1"
  },
  "VIB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -724,7 +727,7 @@
   "tier": "tier1"
  },
  "VIC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -732,7 +735,7 @@
   "tier": "tier1"
  },
  "VIX": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-21"
@@ -741,7 +744,7 @@
   "tier": "tier2"
  },
  "VJC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -749,7 +752,7 @@
   "tier": "tier1"
  },
  "VND": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-23"
@@ -758,7 +761,7 @@
   "tier": "tier2"
  },
  "VNM": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -766,7 +769,7 @@
   "tier": "tier1"
  },
  "VPB": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline",
    "Q2/2026": "2026-07-18"
@@ -775,7 +778,7 @@
   "tier": "tier1"
  },
  "VPI": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -783,7 +786,7 @@
   "tier": "tier2"
  },
  "VPL": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -791,7 +794,7 @@
   "tier": "tier1"
  },
  "VRE": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -799,7 +802,7 @@
   "tier": "tier1"
  },
  "VSC": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
@@ -807,7 +810,7 @@
   "tier": "tier2"
  },
  "VTP": {
-  "checked": "2026-07-23",
+  "checked": "2026-07-24",
   "first_seen": {
    "Q1/2026": "baseline"
   },
