@@ -354,5 +354,49 @@
    }
   ],
   "method": "gemini"
+ },
+ "TCB:Q2/2026": {
+  "background": "TECHCOMBANKは2026年第2四半期の純利益変動について公式に説明を行いました。この時期は半期決算発表が活発に進んでおり、主要報道によると、銀行セクター全体は印象的な成長の勢いを維持しているとされています。当社の業績も堅調で、売上高は前年同期比44.0%増、純利益は前年同期比21.7%増、前期比でも11.2%増加しました。",
+  "outlook": "売上高純利益率が27.7%、PERが7.5（業種平均8.4）、ROEが15.5%であることから、収益性と資本効率は比較的良好な水準にあると見られます。公式に開示された純利益変動の説明内容が、今後の成長戦略や市場動向との関連性を評価する上で重要な論点となるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-22T14:07",
+    "title": "TCB: Giải trình LNST Quý 2 năm 2026"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-22T18:40",
+    "title": "Cập nhật BCTC quý 2/2026 tối ngày 22/7: Đức Giang, Nhựa Tiền Phong, Sasco... cùng loạt doanh nghiệp dồn dập công bố, nhiều công ty báo lỗ"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-22T09:54",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 22/7: Một DN bất động sản báo lãi quý 2 tăng gần 150%, công ty bia lãi gấp đôi cùng kỳ"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VCI:Q2/2026": {
+  "background": "Vietcapの2026年第2四半期は、売上が前年同期比1.4%増に留まる中、純利益は同36.3%増と大幅に伸長しました。これは主に、多数の大規模IPO案件への助言を含む投資銀行業務の好調に支えられたものとみられます。一方で、市場は資産の質と資金調達コストに対する懸念を抱いており、同社株価は過去11ヶ月で大幅に下落しました。",
+  "outlook": "市場は依然として資産の質や資金調達コストに対する懸念を抱いており、堅調な利益成長とは対照的に株価は低迷しています。今後の業績動向は、これらの市場の懸念に対する取り組み、および前期比で純利益が26.5%減少した状況への対応が焦点となるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-20T18:06",
+    "title": "VCI: Giải trình biến động LNST trên BCTC quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-21T10:10",
+    "title": "Lợi nhuận tăng, tư vấn nhiều thương vụ IPO, cổ phiếu Vietcap vẫn lao dốc về đáy 3 năm"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-17T18:24",
+    "title": "Nhóm công ty chứng khoán nhỏ bất ngờ bứt phá lợi nhuận"
+   }
+  ],
+  "method": "gemini"
  }
 }
