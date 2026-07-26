@@ -398,5 +398,27 @@
    }
   ],
   "method": "gemini"
+ },
+ "ACB:Q2/2026": {
+  "background": "ACBの2026年第2四半期は、売上が前年同期比38.6%増と好調でしたが、純利益は前年同期比12.1%減、前期比0.6%減となりました。公式開示では純利益変動の説明が行われたとされていますが、具体的な変動理由は提供されていません。しかし、上半期の連結税引前利益は10.7兆ドンを超え、政府の成長促進策により小売およびSMEセグメントが回復基調にあることが報じられています。",
+  "outlook": "純利益の減少要因は明確ではありませんが、上半期の連結税引前利益は増加しており、公共投資や政府政策による小売・SMEセグメントの回復が今後の収益に寄与する可能性があります。市場金利の安定傾向も、今後の銀行経営の安定性を示す一因と考えられます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-22T17:33",
+    "title": "ACB: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-24T19:12",
+    "title": "Lãi suất ngân hàng 24/7 tại MB, Sacombank, HDBank, Agribank, Vietcombank, BIDV, VietinBank,..."
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-24T11:36",
+    "title": "KQKD 6 tháng 2026: ACB đạt lợi nhuận hơn 10.700 tỷ đồng, bán lẻ và SME hồi phục tích cực"
+   }
+  ],
+  "method": "gemini"
  }
 }
