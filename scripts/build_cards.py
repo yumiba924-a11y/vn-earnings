@@ -116,6 +116,7 @@ def build_card(sym, comp, parsed, label, fx_rate, fx_asof):
     card = {
         "symbol": sym,
         "name": comp.get("name", sym),
+        "name_ja": comp.get("name_ja", "") or "",
         "intl": comp.get("intl", ""),
         "sector": comp.get("sector", ""),
         "tier": comp.get("tier", "tier2"),
