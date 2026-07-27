@@ -15,7 +15,36 @@ sys.path.insert(0, os.path.dirname(__file__))
 import fireant
 import fx as fxmod
 import narrative as narr
-from earnings_collector import parse_is, pick, growth, quarter_key, jst_today
+from earnings_collector import parse_is, pick, growth, quarter_key, jst_today, load_buzz
+
+# 「最高益/記録更新」を会社開示・報道タイトルから拾うキーワード（越/日/英）
+RECORD_KW = ("kỷ lục", "lập kỷ", "cao nhất lịch sử", "cao nhất từ", "record",
+             "過去最高", "最高益", "最高益更新")
+
+
+def compute_tags(card, buzz, median_today):
+    """カードに立てる見どころタグ。数字と出典から機械的に。"""
+    tags = []
+    # 🏆 最高益: 会社開示・報道が記録更新を明言 or 純益が取得履歴でピーク（増益時のみ）
+    titles = " ".join((s.get("title") or "") for s in card.get("sources", [])).lower()
+    sourced = any(k.lower() in titles for k in RECORD_KW)
+    if (sourced or card.get("npat_peak")) and (card.get("npat_yoy") or 0) > 0:
+        tags.append({"label": "最高益", "icon": "🏆", "cls": "rec"})
+    # 🔥 ホット: バズ急上昇 or 発表組内で突出して話題
+    b = buzz.get(card["symbol"])
+    if b and b.get("avg10"):
+        ratio = b["today"] / b["avg10"] if b["avg10"] else 0
+        hot = (ratio >= 2.0 and b["today"] >= 10) or \
+              (median_today and b["today"] >= max(1.5 * median_today, 15))
+        if hot:
+            tags.append({"label": "ホット", "icon": "🔥", "cls": "hot"})
+            card["buzz_today"] = b["today"]
+            card["buzz_ratio"] = round(ratio, 1)
+    # 💎 割安: PER・PBRとも業種平均未満
+    if (card.get("per") is not None and card.get("per_ind") is not None and card["per"] < card["per_ind"]
+            and card.get("pbr") is not None and card.get("pbr_ind") is not None and card["pbr"] < card["pbr_ind"]):
+        tags.append({"label": "割安", "icon": "💎", "cls": "cheap"})
+    return tags
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STATE = os.path.join(ROOT, "data", "state.json")
@@ -122,6 +151,11 @@ def build_card(sym, comp, parsed, label, fx_rate, fx_asof):
     else:
         v = "△ まちまち"
     card["verdict"] = v
+
+    # 純利益が取得履歴（最大13四半期＝3年超）の中でピークか＝最高益判定の一材料
+    npser = [x for x in (parsed["series"].get("NetProfit") or []) if x is not None]
+    card["npat_peak"] = bool(npser and npat is not None and npat >= max(npser))
+    card["hist_q"] = len(npser)  # 何四半期分で判定したか（正直さのため）
     return card
 
 
@@ -133,6 +167,11 @@ def main():
     state = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else {}
     comps = load_companies()
     fx_rate, fx_asof = fxmod.vnd_per_jpy()
+    try:
+        buzz = load_buzz()
+    except Exception as e:
+        print(f"[warn] buzz: {e}")
+        buzz = {}
 
     reporters = sorted(s for s, v in state.items() if v.get("latest") == label)
     print(f"対象四半期 {label} / 発表済 {len(reporters)}社 / FX 1JPY={fx_rate:.2f}VND ({fx_asof})")
@@ -185,6 +224,16 @@ def main():
     with open(NARR_CACHE, "w", encoding="utf-8") as f:
         json.dump(cache, f, ensure_ascii=False, indent=1)
     print(f"新規生成 narrative: {generated}件（残りはキャッシュ再利用）")
+
+    # 見どころタグ（発表組内でのバズ中央値を基準に）
+    todays = sorted(buzz[c["symbol"]]["today"] for c in cards
+                    if c["symbol"] in buzz and buzz[c["symbol"]].get("today") is not None)
+    median_today = todays[len(todays) // 2] if todays else 0
+    ntag = 0
+    for c in cards:
+        c["tags"] = compute_tags(c, buzz, median_today)
+        ntag += len(c["tags"])
+    print(f"タグ付与: {ntag}件（最高益/ホット/割安）")
 
     # 並び順: VN30優先→純利益YoY降順
     cards.sort(key=lambda c: (0 if c["tier"] == "tier1" else 1, -(c["npat_yoy"] or -999)))

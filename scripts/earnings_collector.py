@@ -167,7 +167,7 @@ def main():
 
     for i, (sym, tier) in enumerate(universe):
         try:
-            payload = fireant.income_statement(sym, by, bq, count=6)
+            payload = fireant.income_statement(sym, by, bq, count=13)
         except Exception as e:
             errors.append(f"{sym}: {e}")
             continue
