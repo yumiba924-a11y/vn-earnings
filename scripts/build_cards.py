@@ -25,10 +25,9 @@ RECORD_KW = ("kỷ lục", "lập kỷ", "cao nhất lịch sử", "cao nhất t
 def compute_tags(card, buzz, median_today):
     """カードに立てる見どころタグ。数字と出典から機械的に。"""
     tags = []
-    # 🏆 最高益: 会社開示・報道が記録更新を明言 or 純益が取得履歴でピーク（増益時のみ）
-    titles = " ".join((s.get("title") or "") for s in card.get("sources", [])).lower()
-    sourced = any(k.lower() in titles for k in RECORD_KW)
-    if (sourced or card.get("npat_peak")) and (card.get("npat_yoy") or 0) > 0:
+    # 🏆 最高益: 会社開示・報道が記録更新を明言した社のみ（record_evidenceが根拠）。
+    #   ISは最新5四半期しか取れず"5Q最高"だけでは真の記録と言えないため出典必須にした。
+    if card.get("record_evidence") and (card.get("npat_yoy") or 0) > 0:
         tags.append({"label": "最高益", "icon": "🏆", "cls": "rec"})
     # 🔥 ホット: バズ急上昇 or 発表組内で突出して話題
     b = buzz.get(card["symbol"])
@@ -51,6 +50,7 @@ STATE = os.path.join(ROOT, "data", "state.json")
 COMPANIES = os.path.join(ROOT, "config", "companies.csv")
 REPORTS_DIR = os.path.join(ROOT, "data", "reports")
 NARR_CACHE = os.path.join(ROOT, "data", "narratives.json")
+REC_CACHE = os.path.join(ROOT, "data", "records.json")
 OUT = os.path.join(ROOT, "docs", "data", "cards.json")
 THROTTLE = 0.3
 GEMINI_GAP = 6.0  # 新規生成どうしの間隔（無料枠の分間制限対策）
@@ -178,6 +178,7 @@ def main():
 
     # 背景・見通しのキャッシュ（一度Geminiで生成したら再利用＝新規発表分だけ生成）
     cache = json.load(open(NARR_CACHE, encoding="utf-8")) if os.path.exists(NARR_CACHE) else {}
+    rec_cache = json.load(open(REC_CACHE, encoding="utf-8")) if os.path.exists(REC_CACHE) else {}
     generated = 0
 
     cards = []
@@ -216,6 +217,20 @@ def main():
             generated += 1
             tag = narrative.get("method", "?")
         card.update(narrative)
+
+        # 記録更新（最高益）の一次言及を探索（銘柄×四半期でキャッシュ）
+        rkey = f"{sym}:{label}"
+        if rkey in rec_cache:
+            card["record_evidence"] = rec_cache[rkey]
+        else:
+            try:
+                ev = narr.record_claim(sym, card.get("name", ""))
+            except Exception as e:
+                print(f"[warn] record {sym}: {e}")
+                ev = None
+            rec_cache[rkey] = ev
+            card["record_evidence"] = ev
+
         cards.append(card)
         print(f"  [{i+1}/{len(reporters)}] {sym} {card['verdict']} 純利YoY={card['npat_yoy']} "
               f"出典{len(card.get('sources', []))}件 [{tag}]")
@@ -223,6 +238,8 @@ def main():
 
     with open(NARR_CACHE, "w", encoding="utf-8") as f:
         json.dump(cache, f, ensure_ascii=False, indent=1)
+    with open(REC_CACHE, "w", encoding="utf-8") as f:
+        json.dump(rec_cache, f, ensure_ascii=False, indent=1)
     print(f"新規生成 narrative: {generated}件（残りはキャッシュ再利用）")
 
     # 見どころタグ（発表組内でのバズ中央値を基準に）

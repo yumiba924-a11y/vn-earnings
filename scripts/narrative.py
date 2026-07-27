@@ -59,6 +59,38 @@ def _finish(sym, disclosures, news, max_news):
     return (disclosures[:1] + news[:max_news])
 
 
+_REC_KW = ("kỷ lục", "lập kỷ", "cao nhất lịch sử", "cao nhất từ trước", "cao kỷ lục")
+_PROFIT_KW = ("lợi nhuận", "lãi", "lnst", "lời", "doanh thu")
+
+
+def record_claim(sym, name="", since="2026-06-01"):
+    """会社開示・報道の見出しを広くスキャンし『記録更新（kỷ lục等＋利益/売上語）』の
+    一次言及を探す。ただし他社記事の混入を防ぐため、見出しに自社ティッカー/社名を要求。
+    見つかれば {date,source,title} を返す（＝最高益の根拠）、無ければNone。"""
+    names = [sym.lower()]
+    if name:
+        names.append(name.lower())
+    for off in (0, 50, 100):
+        try:
+            batch = _posts(sym, off)
+        except Exception:
+            break
+        if not batch:
+            break
+        for p in batch:
+            d = (p.get("date") or "")[:10]
+            if d < since:
+                return None
+            t = (p.get("title") or "")
+            tl = t.lower()
+            if (any(k in tl for k in _REC_KW) and any(w in tl for w in _PROFIT_KW)
+                    and any(nm in tl for nm in names)):
+                return {"date": p.get("date", "")[:16],
+                        "source": (p.get("postSource") or {}).get("name", ""),
+                        "title": t.strip()}
+    return None
+
+
 def _mechanical_background(card):
     """出典が無い/LLM無しのときの、数字だけから言える背景（作文しない）。"""
     sy, ny, qoq = card.get("sales_yoy"), card.get("npat_yoy"), card.get("npat_qoq")
