@@ -420,5 +420,44 @@
    }
   ],
   "method": "gemini"
+ },
+ "HAG:Q2/2026": {
+  "background": "HAGLの2026年第2四半期決算は、売上高が前年同期比17.4%減少したものの、純利益は同116.8%の大幅増を記録しました。この利益増加は、約7850億ドンに上る借入金利息の減免が主な要因とみられます。報道によれば、財務省による債務減免があったとされており、フルーツからの収益は大幅に減少したと伝えられています。",
+  "outlook": "第2四半期の純利益は借入金利息の減免という一時的な要因に大きく支えられており、売上高の減少とフルーツ収益の大幅減という事業本体の課題が指摘されます。今後の持続的な成長には、本業における収益力の回復と安定化が重要な論点となるでしょう。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-28T23:43",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 29/7: HAGL, QNS và PAN Group báo lãi bán niên vượt nghìn tỷ, Nhà Từ Liêm lãi gấp đôi cùng kỳ"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-28T11:45",
+    "title": "HAG: Được Bộ Tài chính xóa nợ, HAGL của bầu Đức báo lãi quý II tăng gấp 2,2 lần"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SAB:Q2/2026": {
+  "background": "Sabecoは2026年第2四半期の財務報告について、前年同期比での公式説明を開示しました。売上は前年同期比1.2%の増加となりましたが、純利益は前年同期比0.6%減、前期比0.2%減とわずかに減少しました。この利益減少は、原材料価格の下落により売上総利益率が改善したものの、販売費用の大幅な増加に起因すると報じられています。",
+  "outlook": "原材料価格の恩恵を受け売上総利益率は改善傾向にあるものの、販売費用の増加が純利益を圧迫している点が今後の主要な論点と考えられます。ただし、売上高純利益率18.1%やROE21.5%といった堅調な指標は維持されており、飲料業界の主要企業として引き続き安定した利益基盤を保っていると評価できるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-23T17:11",
+    "title": "SAB: Giải trình BCTC HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-24T10:19",
+    "title": "SAB: Biên lợi nhuận gộp của Sabeco cải thiện mạnh"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-24T08:12",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 24/7: Đạm Hà Bắc báo lãi 6 tháng tăng hơn 1.700% vượt 1.000 tỷ đồng, VIMID tăng trưởng 3 chữ số"
+   }
+  ],
+  "method": "gemini"
  }
 }
