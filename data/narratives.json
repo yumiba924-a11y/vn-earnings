@@ -459,5 +459,78 @@
    }
   ],
   "method": "gemini"
+ },
+ "BWE:Q2/2026": {
+  "background": "Q2/2026において、BIWASE（BWE）の売上は前年同期比で7.8%減少しましたが、純利益は前年同期比7.7%増、前期比55.1%増となり、売上高純利益率は26.9%を記録しました。提供された資料では、Q2の売上減少や利益増加に関する具体的な変動説明（giải trình）は確認できません。なお、同社は2026年3月の報道において、廃棄物発電プロジェクト等への投資のため、株主から1,162.5億ベトナムドンを調達する計画を明らかにしています。",
+  "outlook": "BIWASEのPERは業界平均を下回る10.2倍、ROEは18.0%と高い水準であり、既存事業の効率性や割安感が示唆されます。今後の成長には、売上高減少への対応策と、以前公表された資金調達計画による廃棄物発電や水道事業への投資の進捗が主要な論点となるでしょう。",
+  "sources": [
+   {
+    "source": "Tài chính doanh nghiệp",
+    "date": "2026-03-28T00:11",
+    "title": "BWE: Lợi nhuận đạt gần 900 tỷ đồng, BIWASE muốn huy động thêm 1.162 tỷ"
+   }
+  ],
+  "method": "gemini"
+ },
+ "FPT:Q2/2026": {
+  "background": "FPTの2026年第2四半期決算は、売上が前年同期比17.1%減、純利益も同6.2%減となりました。一方で、純利益は前期比では3.8%増を記録しています。主要報道によると、ベトナムのテクノロジー企業はAIが利益貢献を始める中でも株価が下落基調にありますが、FPT株は足元で外国投資家による買い付けの対象となっているようです。",
+  "outlook": "市場は現在、AIに関する戦略や投資計画だけでなく、AIが具体的な利益成長にどのようにつながるのか、より明確な回答を求めていると見られます。FPTの今後の株価や市場評価は、AI関連の取り組みが持続的な収益性向上に寄与することを明確に示せるかにかかっていると考えられます。",
+  "sources": [
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-07-29T23:46",
+    "title": "Khối ngoại tiếp tục giải ngân vào cổ phiếu Hòa Phát sau báo cáo lợi nhuận nửa đầu năm"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-28T08:45",
+    "title": "AI bắt đầu tạo lợi nhuận, vì sao cổ phiếu công nghệ vẫn lao dốc?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "MSN:Q2/2026": {
+  "background": "MASAN GROUP（MSN）は、2026年第2四半期の連結および個別純利益が前年同期と比較して変動したことに対し、公式説明を行った旨を開示しました。この四半期、MSNは売上高が前年同期比53.5%増、純利益が同134.7%増と大幅な成長を達成しています。同時期のベトナム上場企業全体の業績は、中核事業や一時的な収入に支えられ好調な企業がある一方で、引き続き二極化の傾向が見られたと報じられています。",
+  "outlook": "MSNの純利益は前期比でも92.5%増と堅調な伸びを示し、売上高純利益率は13.5%でした。PERは業界平均14.5に対し13.7、ROEは15.5%を記録しています。消費財小売業界全体では回復の兆候が見られるとの報道もありますが、MSNの利益変動に関する公式説明の具体的な内容が本資料には含まれていないため、今後の詳細な評価にはその内容が鍵となる可能性があります。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-27T16:30",
+    "title": "MSN: Giải trình biến động LNST BCTC HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-07-07T11:16",
+    "title": "Dự báo lợi nhuận quý II/2026: Doanh nghiệp nào được kỳ vọng bứt phá?"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-06-28T09:15",
+    "title": "Dự báo lợi nhuận quý 2/2026 của nhóm doanh nghiệp bán lẻ tiêu dùng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VIB:Q2/2026": {
+  "background": "（数字ベースの自動要約）売上（+36.4%）ほどには純利益（-8.2%）が伸びず、費用増の可能性、売上高純利益率14.5%、前期比-15.0%。事業要因の詳細は開示・報道の反映待ち。",
+  "outlook": "開示・報道の反映待ち。次に業種内の比較と通期見通しを確認。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-27T16:53",
+    "title": "VIB: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T21:13",
+    "title": "Lãi suất ngân hàng 29/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-28T10:23",
+    "title": "VIB: Mảng dịch vụ tăng gần 3 lần, lợi nhuận quý 2/2026 của VIB vẫn đi lùi"
+   }
+  ],
+  "method": "mechanical"
  }
 }
