@@ -512,8 +512,8 @@
   "method": "gemini"
  },
  "VIB:Q2/2026": {
-  "background": "（数字ベースの自動要約）売上（+36.4%）ほどには純利益（-8.2%）が伸びず、費用増の可能性、売上高純利益率14.5%、前期比-15.0%。事業要因の詳細は開示・報道の反映待ち。",
-  "outlook": "開示・報道の反映待ち。次に業種内の比較と通期見通しを確認。",
+  "background": "VIBは2026年第2四半期の税引後純利益の変動について公式に説明を行いました。この期間、売上は前年同期比で36.4%と大幅な増加を記録したものの、純利益は前年同期比8.2%減、前期比15.0%減となりました。売上高純利益率は14.5%でした。",
+  "outlook": "売上の堅調な伸びにもかかわらず純利益が減少しているため、今後の利益変動要因に対する市場の関心が高まると考えられます。PERが同業種平均を下回る現状も踏まえ、収益性の回復とその具体策が今後の論点となるかもしれません。",
   "sources": [
    {
     "source": "HSX",
@@ -522,15 +522,15 @@
    },
    {
     "source": "Tạp chí Nhịp sống thị trường",
-    "date": "2026-07-29T21:13",
-    "title": "Lãi suất ngân hàng 29/7 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+    "date": "2026-07-30T15:58",
+    "title": "CII: Báo lãi “bốc hơi” gần một nửa, chi 4 tỷ đồng lãi vay mỗi ngày"
    },
    {
-    "source": "Asean Times",
-    "date": "2026-07-28T10:23",
-    "title": "VIB: Mảng dịch vụ tăng gần 3 lần, lợi nhuận quý 2/2026 của VIB vẫn đi lùi"
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T15:48",
+    "title": "Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026"
    }
   ],
-  "method": "mechanical"
+  "method": "gemini"
  }
 }
