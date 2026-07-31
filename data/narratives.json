@@ -532,5 +532,166 @@
    }
   ],
   "method": "gemini"
+ },
+ "CTR:Q2/2026": {
+  "background": "Viettel Construction (CTR)の2026年Q2決算では、売上高が前年同期比28.4%増、純利益が同18.3%増となり、報道によれば過去最高益を記録した可能性があります。上半期累計では、純売上高が前年同期比33%増の7兆9,590億ドン、税引前利益が20%増の4,020億ドンとなりました。期末総資産は9兆7,876億ドンに達し、流動資産の増加が寄与した模様です。",
+  "outlook": "売上高純利益率は4.1%であり、PERは業種平均を上回る13.9倍となっています。ROEは30.9%と高い水準を維持しており、今後の収益性や資本効率の推移が注目されます。",
+  "sources": [
+   {
+    "source": "Asean Times",
+    "date": "2026-07-30T14:03",
+    "title": "CTR: Viettel Construction báo lãi quý cao kỷ lục, tài sản gần 10.000 tỷ đồng"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T11:30",
+    "title": "CTR: Một doanh nghiệp quân đội báo lãi quý 2 tăng trưởng mạnh"
+   }
+  ],
+  "method": "gemini"
+ },
+ "DBC:Q2/2026": {
+  "background": "Q2/2026において、DABACO（DBC）は売上が前年同期比11.3%増と堅調であったものの、純利益は同43.0%減と大幅な減少を記録しました。主要報道によると、この純利益の減少は売上原価が20%増加したことが主な要因とされています。同社は連結および親会社の税引後利益の変動について公式に説明を開示しています。",
+  "outlook": "売上高の成長が見られる一方で、売上原価の増加が利益を圧迫している状況は、今後の収益性改善に向けた課題となる可能性があります。会社が開示する税引後利益の変動に関する詳細説明や、コスト抑制策の動向が注目されるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-28T17:35",
+    "title": "DBC: Giải trình chênh lệch LNST BCTC HN và Cty mẹ quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T16:16",
+    "title": "DBC: Lợi nhuận giảm 43% - Chuyện gì đang xảy ra với Dabaco của đại gia Nguyễn Như So?"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-29T13:41",
+    "title": "DBC: Giá vốn tăng cao kéo lợi nhuận Dabaco giảm sâu"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PAN:Q2/2026": {
+  "background": "The PAN Groupの2026年第2四半期は、売上高が前年同期比10.1%減少しましたが、純利益は38.6%増加しました。これは主に利益率の改善と財務費用の削減が寄与したと報じられています。しかし、純利益は前期比では45.4%の大幅な減少となりました。",
+  "outlook": "売上高の減少傾向が続く中、利益率の維持または改善と費用削減の継続が今後の業績を左右する重要な論点と考えられます。前期比での純利益減少が見られるため、四半期ごとの利益変動要因には引き続き注目が必要です。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-03-31T15:38",
+    "title": "PAN: Giải trình biến động LNST BCTC Riêng năm 2025 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-29T13:48",
+    "title": "PAN: Doanh thu 'đi lùi', PAN Group vẫn báo lãi tăng gần 40%"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T11:00",
+    "title": "TCH: \"Đổ\" hơn 300 tỷ vào cổ phiếu TCH sau 3 tháng, Lideco từ tạm lãi 61 tỷ về hòa vốn, lỗ nặng với DBC và HHS"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PVT:Q2/2026": {
+  "background": "PV Trans Corp (PVT)は2026年第2四半期に、売上高が前年同期比32.5%増、純利益が同88.4%増（前期比75.1%増）と大幅な業績向上を達成しました。この好調な業績は、船隊稼働効率の最適化および石油・ガス輸送業界における良好な市況をうまく活用したことにより、売上高純利益率が11.9%に改善されたことが寄与したと考えられます。",
+  "outlook": "業界全体としては、過去10年以上で最も強力な投資サイクルにあると報じられており、2026年下半期の業界利益は57%増加すると予測されています。この傾向から、PV Trans Corpを含む一部の輸送関連銘柄は、事業実績の改善と多くの大規模プロジェクトが本格的な実施段階に入ることに伴い、下半期も引き続き良好な見通しを持つ可能性が示唆されます。",
+  "sources": [
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-07-28T07:15",
+    "title": "PDV: Lợi nhuận quý II/2026 tăng vọt 600%, bứt phá nhờ tối ưu hóa hiệu suất khai thác đội tàu"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-21T11:01",
+    "title": "Chu kỳ đầu tư mạnh nhất hơn một thập kỷ, MBS chỉ ra nhóm cổ phiếu đáng chú ý nửa cuối 2026, lợi nhuận ngành dự báo tăng 57%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "TCH:Q2/2026": {
+  "background": "TCHのQ2/2026決算において、純利益は前年同期比191.2%の大幅な増加を記録し、売上高純利益率も36.3%と高水準でした。売上高は前年同期比15.5%の増加となりました。公式開示では、会計年度2026年Q1の業績が前年同期比で変動した理由について説明がされています。また、主要報道では、2026年上半期（H1）の純売上高は前年同期比4%減の90億ドンと報じられましたが、税引後利益は同148%増の190億ドンとされています。LidecoがTCH株式に多額の投資を行ったことが報じられるなど、市場の関心も示されました。",
+  "outlook": "不動産セクター全体としては、住宅ローン金利が高い状況下でも成長の勢いを維持していると見られます。2026年下半期には、取引の勢いの増加が不動産企業の収益と利益に良い影響をもたらすとの期待が示唆されています。TCHのPERは35.3と業種平均（23.5）を上回っており、ROEは2.2%となっています。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-30T09:12",
+    "title": "TCH: Giải trình chênh lệch KQKD quý 1 năm tài chính 2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T11:00",
+    "title": "TCH: \"Đổ\" hơn 300 tỷ vào cổ phiếu TCH sau 3 tháng, Lideco từ tạm lãi 61 tỷ về hòa vốn, lỗ nặng với DBC và HHS"
+   },
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-05-16T09:33",
+    "title": "Ngành bất động sản duy trì động lực tăng trưởng bất chấp lãi vay mua nhà cao"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VGC:Q2/2026": {
+  "background": "Viglacera (VGC)の2026年第2四半期は、売上が前年同期比38.2%増、純利益が同54.0%増を記録し、四半期として過去最高の利益を達成しました。特に、3年間の赤字から2026年第1四半期に黒字転換した建設用ガラス事業が、通商産業省による反ダンピング税適用決定の恩恵を受けていると報じられています。売上高純利益率は18.6%でした。",
+  "outlook": "同社は、総面積約900ヘクタールの3つの工業団地の着工を予定しており、今後の事業拡大が期待されます。一方で、株価は依然として1年間の最安値付近で推移しており、PERが業種平均をやや上回る中で、今後の市場評価が注目されるかもしれません。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T16:23",
+    "title": "VGC: Một doanh nghiệp “họ GELEX” lần đầu lãi hơn 1.000 tỷ đồng/quý, cổ phiếu vẫn ở vùng đáy 1 năm"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-06T09:36",
+    "title": "VGC: Một mảng 'đặc biệt' vừa có lãi trở lại sau 3 năm thua lỗ, đón ngay tin vui từ quyết định áp thuế chống bán phá giá của Bộ Công Thương"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VHC:Q2/2026": {
+  "background": "VINH HOAN CORP (VHC)の2026年第2四半期は、売上が前年同期比7.9%増加したものの、純利益は同8.5%減少しました。この利益変動について、会社は公式に説明を開示しています。一方、純利益は前期比で72.5%と大幅な改善を示し、累計6ヶ月間の売上高は6,944億ドンに達しています。",
+  "outlook": "売上成長がありながら純利益が前年同期比で減少した要因については、今後の詳細な分析が待たれます。しかしながら、前期比での純利益の大幅な改善は、今後の業績回復に向けた兆候となる可能性があります。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-29T17:21",
+    "title": "VHC: Giải trình biến động KQKD Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T23:12",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 30/7: Loạt doanh nghiệp tên tuổi đã công bố, nhiều kết quả bất ngờ"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-22T13:45",
+    "title": "VHC: Doanh thu Vĩnh Hoàn 2 quý đầu năm 2026 đạt gần 7.000 tỷ đồng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VRE:Q2/2026": {
+  "background": "Vincom Retail JSC (VRE) は2026年第2四半期の決算を発表しました。主要報道では、同社が当四半期に1,600億ドンを超える利益を計上したと報じられています。売上高は前年同期比10.8%増、純利益は前年同期比30.4%増となり、前四半期比では0.1%増に留まりました。また、上半期の連結調整後純売上高は年間事業計画の49%を、純利益は同58%を達成しています。2025年には、監査済み財務諸表の同期との差異について説明が行われました。",
+  "outlook": "同社の売上高純利益率は67.8%と高い水準にあり、PERは業種平均と比較して低い7.6倍、ROEは15.5%です。ただし、第2四半期の純利益は前四半期比で0.1%増とほぼ横ばいにとどまっており、今後の利益成長の勢いを注視する必要があるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-03-16T17:08",
+    "title": "VRE: Giải trình chênh lệch BCTC kiểm toán năm 2025 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T23:12",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 30/7: Loạt doanh nghiệp tên tuổi đã công bố, nhiều kết quả bất ngờ"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T11:25",
+    "title": "VRE: Vincom Retail báo lãi hơn 1.600 tỷ đồng trong quý 2/2026"
+   }
+  ],
+  "method": "gemini"
  }
 }
