@@ -693,5 +693,122 @@
    }
   ],
   "method": "gemini"
+ },
+ "CMG:Q2/2026": {
+  "background": "Q2/2026の業績では、売上高が前年同期比5.1%増と微増した一方で、純利益は前年同期比13.1%減、前期比14.2%減となりました。これを受け、同社は利益変動に関する説明を開示しています。以前の2025会計年度では、同社は売上高10兆ベトナムドンを初めて突破し、利益も23%増と堅調な成長を達成していました。2025年には上場IT企業グループが全体的に高い成長を示しましたが、デジタルインフラ、技術、市場拡大への再投資圧力も指摘されていました。",
+  "outlook": "同社はAI-Xを新たな成長エンジンとする第二の革新サイクルを目指しており、これが将来の成長の鍵となる可能性があります。しかし、Q2/2026の純利益減少や、PERが業種平均（11.7）を上回る14.4という水準にあること、また業界全体がデジタルインフラなどへの強力な再投資圧力を受けていることは、今後の収益性および財務健全性における論点となり得ます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T09:55",
+    "title": "CMG: Giải trình biến động KQKD HN quý 1/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-05-30T11:31",
+    "title": "CMG: Lần đầu vượt doanh thu 10.000 tỷ đồng, lợi nhuận tăng 23% trong năm tài chính 2025"
+   },
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-03-03T08:36",
+    "title": "Doanh nghiệp công nghệ nối dài tăng trưởng lợi nhuận"
+   }
+  ],
+  "method": "gemini"
+ },
+ "CTD:Q2/2026": {
+  "background": "会社の公式開示によると、COTECCONS (CTD) は2026会計年度全体で包括的な成長を遂げ、利益成長率が売上成長率の2倍であったと報告されています。一方で、2026年第2四半期では売上が前年同期比27.1%増加したものの、純利益は同27.4%減少しました。主要報道では借入金の大幅な増加と金融費用の上昇が指摘されており、これが利益を圧迫した可能性が示唆される中、当四半期の売上高純利益率は1.4%でしたが、純利益は前四半期比で23.0%増加しています。",
+  "outlook": "全会計年度で好調な結果が示唆されているものの、2026年第2四半期単体の純利益は前年同期比で減少しており、売上成長と利益動向の乖離が見られます。借入金増加による金融費用の上昇が指摘されており、収益性の改善が引き続き課題となるかもしれません。",
+  "sources": [
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-07-31T08:56",
+    "title": "CTD: Doanh thu vượt mốc 34.000 tỷ đồng, Coteccons khép lại năm tài chính 2026 với kết quả ấn tượng"
+   },
+   {
+    "source": "PetroTimes",
+    "date": "2026-04-27T00:15",
+    "title": "CTD: Coteccons báo lãi tăng, nợ vay hơn gấp đôi sau 9 tháng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "DCM:Q2/2026": {
+  "background": "Q2/2026において、売上高は前年同期比11.2%増、純利益は前年同期比35.5%増（前期比35.4%増）を記録し、売上高純利益率は15.9%でした。しかしながら、上半期では約1,900億ドン（前年同期比約55%増）の利益を計上した一方で、営業活動によるキャッシュフローは約1,000億ドンを超えるマイナスとなりました。これは主に、多額の資金が棚卸資産と売掛金に固定されたためと考えられ、7,200億ドンを超える現金・預金を保有しつつも短期借入を大幅に増やしている点が指摘されています。",
+  "outlook": "今後、豊富な手元資金があるにもかかわらず増加する短期借入と、棚卸資産・売掛金に起因する営業キャッシュフローのマイナス傾向に対する企業の資金管理戦略が、主要な論点となる可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T21:22",
+    "title": "DCM: Lãi nghìn tỷ nhưng tiền lại \"chảy ngược\", điều gì đang diễn ra tại Đạm Cà Mau?"
+   },
+   {
+    "source": "Vietnam Finance",
+    "date": "2026-07-31T18:31",
+    "title": "NTL: Lideco lãi tăng gấp 3, 'cược' 600 tỷ đồng vào chứng khoán"
+   }
+  ],
+  "method": "gemini"
+ },
+ "GEX:Q2/2026": {
+  "background": "Tập đoàn GELEX（GEX）の2026年第2四半期は、売上が前年同期比43.1%増と大きく伸長しました。純利益も前年同期比13.1%増、前期比では134.0%増と大幅な増加を達成しました。公式開示資料及び報道では、この利益増加について「一夜にして数百億ドンを追加した」と表現されており、特定の要因が寄与した可能性が示唆されています。売上高純利益率は9.4%でした。",
+  "outlook": "当社のPERは20.7であり、業種平均の14.8と比較するとやや高い水準にあります。今後の業績見通しにおいては、今期の純利益を大きく押し上げた特定の要因が継続するかどうかが主要な論点となる可能性があります。",
+  "sources": [
+   {
+    "source": "An ninh tiền tệ",
+    "date": "2026-07-10T06:37",
+    "title": "GEX: Đằng sau khoản lãi thêm hàng trăm tỷ đồng chỉ 'sau một đêm' của Tập đoàn Gelex"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-06-26T22:58",
+    "title": "Một cổ phiếu ngân hàng được 26 quỹ âm thầm \"gom hàng\", lợi nhuận quý 2 dự báo tăng vọt"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HDC:Q2/2026": {
+  "background": "Hodeco (HDC)の2026年第2四半期決算では、売上高は前年同期比17.7%の増加を示しました。しかし、純利益は前年同期比で25.3%減少、前期比でも25.6%の減少となりました。この利益の減少は、主に金融事業からの収益減少と金利費用の増加に起因すると報じられています。",
+  "outlook": "今後の業績においては、金融事業の収益動向と金利費用の管理が重要な論点となる可能性があります。売上高は増加しているものの、純利益の回復に向けた経営戦略が注目されます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-29T17:22",
+    "title": "HDC: Giải trình doanh thu lợi nhuận trên BCTC Quý 2 năm 2026"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-30T23:34",
+    "title": "HDC: Lợi nhuận quý 2/2026 của Hodeco 'đi lùi' do hụt thu mảng tài chính"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T23:12",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 30/7: Loạt doanh nghiệp tên tuổi đã công bố, nhiều kết quả bất ngờ"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PC1:Q2/2026": {
+  "background": "PC1 Groupの2026年第2四半期決算では、売上が前年同期比30.6%減となりましたが、純利益は43.0%増加し、売上高純利益率は11.5%でした。会社は公式に純利益の変動について説明を開示しており、また、他社によるPC1株への投資が含み益をもたらしているとの報道もあります。",
+  "outlook": "売上高の減少と純利益の大幅な増加の背景にある詳細な説明が今後の論点となるでしょう。純利益は前期比で12.8%減少しており、その推移も注目されますが、PERは業種平均を下回り、ROEも良好な水準です。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T09:43",
+    "title": "PC1: Giải trình chênh lệch LNST BCTC HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-07-31T19:47",
+    "title": "Mua PC1 ở vùng giá thấp, ‘ông lớn’ hạ tầng tại TP.HCM tạm lãi hơn 113 tỉ đồng"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T15:58",
+    "title": "CII: Báo lãi “bốc hơi” gần một nửa, chi 4 tỷ đồng lãi vay mỗi ngày"
+   }
+  ],
+  "method": "gemini"
  }
 }
