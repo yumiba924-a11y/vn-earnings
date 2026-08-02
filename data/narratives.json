@@ -810,5 +810,193 @@
    }
   ],
   "method": "gemini"
+ },
+ "DGW:Q2/2026": {
+  "background": "Digiworld Corp（DGW）の2026年第2四半期は、売上が前年同期比26.9%増、純利益が同160.6%増（四半期比53.1%増）と大幅な増益を達成しました。会社は連結および単独の四半期業績について公式な説明を開示しています。この期間中、DGWは和発集団（HPG）株への投資を減らし、一方で都市開発キンバック総公社（KBC）株に約2,000億ドンを新規投資したと報じられています。一部の市場分析では、小売セクターが利益成長の主要な注目点として挙げられており、DGWの業績もこの流れを反映している可能性があります。",
+  "outlook": "第2四半期の好調な純利益成長と新たな投資先の選定は、今後の戦略および業績に対する論点となり得ます。現在の財務指標を見ると、DGWの売上高純利益率は4.2%、PERは9.7（業界平均13.0）、ROEは24.3%であり、これらの数値が今後の動向を評価する上での手掛かりとなるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-29T15:59",
+    "title": "DGW: Giải trình KQKD HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-30T20:25",
+    "title": "Digiworld lãi quý 2 tăng 2,6 lần, đầu tư 200 tỷ đồng vào cổ phiếu KBC"
+   }
+  ],
+  "method": "gemini"
+ },
+ "EIB:Q2/2026": {
+  "background": "EIBの2026年第2四半期の純利益は前年同期比で50.5%減少、前期比でも6.9%減少しました。この変動について、同行は公式に説明を行っています。報道によると、信用リスク引当金費用が前年同期比で138%以上急増したことが、この大幅な利益減少の主因であり、大半の銀行が利益成長を記録する中でEIBは数少ない利益減少銀行の一つです。",
+  "outlook": "信用リスク引当金費用の継続的な増加が今後の収益に与える影響が主要な論点となりそうです。また、業界平均を大きく上回るPERと低いROEは、今後の収益性改善と市場評価において課題となる可能性を示唆しています。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-30T14:21",
+    "title": "EIB: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-30T19:04",
+    "title": "EIB: Trích lập dự phòng tăng vọt, lợi nhuận Eximbank lao dốc hơn 50%"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T16:30",
+    "title": "Những ngân hàng báo lãi sụt giảm trong nửa đầu năm 2026"
+   }
+  ],
+  "method": "gemini"
+ },
+ "FRT:Q2/2026": {
+  "background": "FRT JSCは、2026年第2四半期において純利益が前年同期比で大幅に増加したことについて、公式に変動説明を行いました。主要報道によれば、2026年上半期の売上高は30.743兆ドンに達し、特に薬局チェーン「Long Châu」が成長を牽引しています。Q2の売上は前年同期比37.2%増、純利益は同186.5%増と顕著な伸びを記録し、売上高純利益率は2.9%でした。",
+  "outlook": "FRTのPERは19.6であり、業界平均の13.0と比較して高水準にあることから、市場からの期待がうかがえます。また、ROEは24.3%と堅調であり、効率的な資本利用を示唆している可能性があります。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-30T09:13",
+    "title": "FRT: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T18:28",
+    "title": "FRT: Doanh thu FPT Retail đạt 30.743 tỷ đồng trong nửa đầu năm 2026, nhà thuốc Long Châu dẫn dắt đà tăng trưởng"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-22T09:08",
+    "title": "Thị trường phân hóa, vì sao doanh thu cho vay margin của nhiều công ty chứng khoán vẫn tăng?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "GMD:Q2/2026": {
+  "background": "Tập đoàn Gemadeptの2026年第2四半期決算では、純利益が前年同期比112.8%増、売上高が同17.9%増と大幅な増益を達成しました。報道によると、運輸セクターは利益面で好調であり、特に2026年最初の5ヶ月間の輸出入が25%増加したことが、同社の港湾事業の好業績に貢献したと見られます。この結果、売上高純利益率は73.0%に達しました。",
+  "outlook": "第2四半期における堅調な輸出入の成長と運輸セクターの好調が継続するかどうかが、今後のGemadeptの業績を左右する可能性があります。非常に高い純利益率を維持できるか、またPERが業界平均をわずかに上回っている点が今後の評価において論点となるかもしれません。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-01T17:05",
+    "title": "Gemadept, Cảng Hải Phòng được dự báo bứt phá lợi nhuận quý II"
+   }
+  ],
+  "method": "gemini"
+ },
+ "KOS:Q2/2026": {
+  "background": "KOSYは、2026年第2四半期において純利益が前年同期比181.4%増、前期比338.4%増と大幅に変動したことに対し、公式な説明を開示しました。報道によると、同社の会長は困難な不動産市場環境を認識しつつも、主要な不動産プロジェクトの概ねの完成を背景に過去最高の利益目標を設定したとされています。また、KOSYは2026年に1,200億ドン（531%増）の利益目標を掲げ、不動産と再生可能エネルギープロジェクトへの投資拡大を計画している模様です。",
+  "outlook": "大幅な純利益の増加が見られるものの、売上高純利益率2.6%やROE0.8%といった収益性の指標は相対的に低い水準にあります。特に、業界平均と比較して著しく高いPER405.6は今後の評価において論点となるでしょう。同社は困難な不動産市場環境の中、主要プロジェクトの完了と再生可能エネルギー分野への投資拡大を通じて目標達成を目指す方針です。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T11:00",
+    "title": "KOS: Giải trình biến động LNST trên BCTC quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-06-26T15:37",
+    "title": "Chủ tịch Kosy nói về cơ sở đặt mục tiêu lợi nhuận kỷ lục"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-06-08T19:02",
+    "title": "KOS: Kosy đặt mục tiêu lãi tăng 531%, tiếp tục mở rộng đầu tư"
+   }
+  ],
+  "method": "gemini"
+ },
+ "NVL:Q2/2026": {
+  "background": "Novaland Group (NVL) の2026年第2四半期決算では、税引後純利益が912億ドンに達し、前年同期の約190億ドンの損失から大幅な改善を見せました。この利益の急増は、主に資産売却益や財務収益、その他の収益によるものであり、多くの企業で見られる傾向と報道されています。一方で、売上高は前年同期比で22.1%減少しており、本業の事業活動はまだ本格的な回復には至っていない可能性が示唆されます。",
+  "outlook": "純利益の大幅な改善は主に非事業活動によるものであり、売上高の減少も考慮すると、本業の回復とその収益の持続可能性が今後の主要な論点となると考えられます。売上高純利益率が60.4%と高い一方で、本業の売上が減少している現状は、持続的な成長に向けて事業構造の見直しや本業回復への取り組みが求められる可能性を示唆しています。",
+  "sources": [
+   {
+    "source": "Báo Tiền Phong",
+    "date": "2026-07-31T20:56",
+    "title": "Nhiều doanh nghiệp thoát lỗ, báo lãi nhờ thoái vốn"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T09:16",
+    "title": "NVL: Novaland lãi đột biến quý 2 do đâu?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "REE:Q2/2026": {
+  "background": "REEは2026年上半期に1兆7,000億ドン超の税引後利益を計上し、未分配利益総額は14兆ドン以上に達しました。2026年第2四半期は、売上が前年同期比3.5%減少した一方で、純利益は同5.9%増加したものの、前期比では16.7%減少しています。電力業界では、猛暑が利益を活性化させる一方で、2026年第2四半期の高水準の利益維持は困難であり、業績はグループ間で二極化するとの見方が報じられています。",
+  "outlook": "電力業界の見通しとして、熱発電グループの成長は不均一であるものの、エネルギーグループは安定した利益水準を維持すると予測されています。REEの業績はこの業界動向の影響を受ける可能性があり、今後の推移が注目されます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-03-12T16:27",
+    "title": "REE: Giải trình chênh lệch LNST đã kiểm toán năm 2025 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-08-01T18:15",
+    "title": "REE: Có hơn 14.000 tỷ đồng lợi nhuận chưa phân phối"
+   },
+   {
+    "source": "Vietnam Finance",
+    "date": "2026-07-08T23:56",
+    "title": "Nắng nóng kích hoạt mùa báo lãi, lợi nhuận ngành điện vẫn khó duy trì mức cao"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SBT:Q2/2026": {
+  "background": "TTC -BHは、2025-2026会計年度第4四半期の業績変動について公式説明を行いました。同会計年度の純売上高は株主総会目標を上回り、26,892億ドンを達成しており、米や高付加価値製品の貢献度増加による収益構造の転換が効果を示していると報じられています。当該四半期（Q2/2026）においては、売上高が前年同期比で4.2%減少したものの、純利益は15.2%増加し、売上高純利益率は3.5%を記録しました。",
+  "outlook": "収益構造の転換、特に米や高付加価値製品の貢献増加は今後も継続する可能性があります。売上高が減少する中で純利益が前年同期比で増加したことから、収益性の改善がうかがえますが、現在のPER（22.4）が業種平均（14.7）を上回っている点は、市場評価の論点となり得るでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T09:22",
+    "title": "SBT: Giải trình biến động KQKD Quý 4 niên độ 2025-2026"
+   },
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-07-31T19:56",
+    "title": "SBT: Doanh thu AgriS vượt kế hoạch, mảng gạo đóng góp hơn 2.600 tỷ đồng"
+   },
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-04-29T16:38",
+    "title": "SBT: AgriS mở rộng cơ cấu doanh thu và chất lượng tăng trưởng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VPL:Q2/2026": {
+  "background": "Vinpearl JSC (VPL)の2026年Q2は、売上が前年同期比12.5%増、純利益が同275.2%増と大幅な成長を遂げました。一方で、純利益は前四半期比で58.1%減少しています。報道によると、上半期全体の利益は前年同期の8倍に達し、総資産および自己資本も2025年末からそれぞれ37%増、24%増となりました。親会社であるVingroupも上半期に大幅な増益を記録しており、グループ全体として好調な環境にあります。",
+  "outlook": "今後の焦点としては、大幅な純利益の年間成長と四半期ベースでの減少傾向が共存している点が挙げられます。また、同社のPERは47.4倍と業種平均21.8倍を大きく上回っており、市場の期待と評価水準が注目される論点となりそうです。売上高純利益率19.1%、ROE7.4%という財務指標を踏まえ、持続的な成長性や収益構造の安定性が今後の重要な検討事項となるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-03-11T17:10",
+    "title": "VPL: Giải trình BCTC kiểm toán năm 2025"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T09:40",
+    "title": "VIC: Vingroup lãi sau thuế 20.375 tỷ đồng trong 6T2026, gấp 4,5 lần cùng kỳ"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T18:00",
+    "title": "VPL: Vinpearl báo lãi nửa đầu năm cao gấp 8 lần cùng kỳ"
+   }
+  ],
+  "method": "gemini"
  }
 }
