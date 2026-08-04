@@ -36,9 +36,10 @@
  "BID": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "BMP": {
@@ -113,9 +114,10 @@
  "CTG": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "CTR": {
@@ -252,9 +254,10 @@
  "GAS": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "GEE": {
@@ -287,9 +290,10 @@
  "GVR": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "HAG": {
@@ -422,17 +426,19 @@
  "MBB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "MSB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "MSN": {
@@ -447,17 +453,19 @@
  "MWG": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "NAB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "NKG": {
@@ -497,9 +505,10 @@
  "OCB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "PAN": {
@@ -531,9 +540,10 @@
  "PHR": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier2"
  },
  "PLX": {
@@ -616,9 +626,10 @@
  "SHB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "SIP": {
@@ -640,25 +651,28 @@
  "SSB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "SSI": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "STB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "SZC": {
@@ -691,17 +705,19 @@
  "TPB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "VCB": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "VCG": {
@@ -742,9 +758,10 @@
  "VHM": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "VIB": {
@@ -793,9 +810,10 @@
  "VNM": {
   "checked": "2026-08-04",
   "first_seen": {
-   "Q1/2026": "baseline"
+   "Q1/2026": "baseline",
+   "Q2/2026": "2026-08-04"
   },
-  "latest": "Q1/2026",
+  "latest": "Q2/2026",
   "tier": "tier1"
  },
  "VPB": {

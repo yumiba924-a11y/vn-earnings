@@ -998,5 +998,341 @@
    }
   ],
   "method": "gemini"
+ },
+ "BID:Q2/2026": {
+  "background": "BIDVのQ2/2026決算では、売上が前年同期比29.6%増、純利益が同20.2%増（前期比20.6%増）となり、堅調な業績を示しました。売上高純利益率は15.6%、ROEは17.9%に達しています。また、報道によると、直近の銀行業界における預金金利は変動傾向にあり、BIDVの個人向け貯蓄金利は0.1%から6%の範囲で設定されているようです。",
+  "outlook": "現在の好調な収益成長と高い収益性から、今後の業績も一定の勢いを維持する可能性が考えられます。一方で、預金金利の変動や他行との競争状況が継続しており、これが将来の資金調達コストや収益構造に与える影響が論点となり得るでしょう。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T23:20",
+    "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   },
+   {
+    "source": "An ninh tiền tệ",
+    "date": "2026-08-03T12:32",
+    "title": "Lãi suất BIDV hôm nay, gửi 300 triệu về tay 54 triệu đồng tiền lãi"
+   }
+  ],
+  "method": "gemini"
+ },
+ "CTG:Q2/2026": {
+  "background": "VIETINBANKのQ2/2026決算は、売上高が前年同期比34.7%増、純利益が同20.8%増、四半期比31.5%増と堅調な成長を示しました。売上高純利益率は23.0%、ROEは22.1%と高い収益性を維持しています。報道によれば、当行の貯蓄預金金利は最大6.0%を記録している一方、他行では預金金利の引き上げや高金利提供の動きが見られます。",
+  "outlook": "今後の論点としては、当行の高い収益性が継続できるか、また競合他行の動向を含む預金金利市場の変化が注目されます。現在のPERは業界平均を下回っており、その評価も一つの焦点となり得るでしょう。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T23:20",
+    "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   },
+   {
+    "source": "Báo Lao Động",
+    "date": "2026-08-03T12:33",
+    "title": "Lãi suất VietinBank, gửi tiết kiệm 200 triệu đồng thu về 24 triệu đồng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "GAS:Q2/2026": {
+  "background": "PV Gas（GAS）は2026年Q2において、売上高が前年同期比43.8%増、純利益が同25.2%増（前期比101.1%増）を記録しました。市場報道によると、石油・ガスセクターは利益面で注目される分野であり、PV Gasは上半期で年間利益計画の70%超を達成する見込みとされています。これは変動するエネルギー市場環境下での達成となります。",
+  "outlook": "Q2の売上高純利益率は13.9%であり、PERは13.5（業種平均12.8）とやや上回る水準です。上半期の好調な利益達成度から、通期計画に対する進捗は順調である可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-28T09:15",
+    "title": "GAS: PV GAS ước lãi hơn 8.000 tỷ, vượt 70% kế hoạch năm"
+   }
+  ],
+  "method": "gemini"
+ },
+ "GVR:Q2/2026": {
+  "background": "VRGのQ2/2026決算では、売上が前年同期比20.5%増、純利益は同61.9%増と大幅な成長を記録しました。売上高純利益率は36.0%に達しています。この期間、天然ゴムの採掘企業は販売価格の上昇と土地補償による収益増で利益が大きく伸びた一方で、工業団地不動産部門の利益は「底を打った」と報じられています。",
+  "outlook": "今後の見通しとしては、天然ゴム産業の下流であるタイヤ・チューブ製造部門が、原料価格の高騰によりコスト圧力に直面すると予測されており、VRGの関連事業に影響を及ぼす可能性があります。また、利益が「底を打った」とされる工業団地不動産部門の動向も注視されるべき論点です。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhà quản trị",
+    "date": "2026-06-26T06:26",
+    "title": "Bất động sản khu công nghiệp 'chạm đáy' lợi nhuận"
+   },
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-05-22T23:00",
+    "title": "Bức tranh lợi nhuận ngành cao su phân hóa: Thượng nguồn bội thu, hạ nguồn săm lốp đối diện áp lực chi phí"
+   }
+  ],
+  "method": "gemini"
+ },
+ "MBB:Q2/2026": {
+  "background": "MB（MBB）の2026年第2四半期決算は、売上高が前年同期比52.7%増、純利益が同40.6%増、前期比9.6%増と大幅な成長を示しました。売上高純利益率は21.5%、ROEは21.1%を達成しています。2026年8月上旬の報道によると、MBの最高預金金利は年7%で、オンライン預金に利点が見られます。",
+  "outlook": "市場では他行の預金金利引き上げの動きも見られ、MBの預金金利戦略とそれが今後の収益に与える影響が注目されます。高い収益性指標を維持しつつ、競争環境下でのMBの成長戦略が今後の論点となる可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T23:20",
+    "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-02T22:52",
+    "title": "MBB: Lãi suất ngân hàng Quân đội tháng 8/2026: Mức cao nhất là bao nhiêu?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "MSB:Q2/2026": {
+  "background": "MSBの2026年第2四半期は、売上が前年同期比35.9%と大幅に増加した一方で、純利益は前年同期比1.1%の微増に留まり、前四半期比では17.4%の減少となりました。当四半期の売上高純利益率は16.0%でした。同時期には、一部の銀行が四半期ベースで大幅な利益成長を達成し、過去最高益を記録するケースも見られました。",
+  "outlook": "MSBの純利益が前四半期比で減少した点は、今後の業績推移における注目点となるかもしれません。PERは8.5と業界平均の8.7をわずかに下回り、ROEは13.9%です。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T09:53",
+    "title": "Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T15:48",
+    "title": "Toàn cảnh lợi nhuận của 27 ngân hàng trong 6 tháng đầu năm 2026"
+   }
+  ],
+  "method": "gemini"
+ },
+ "MWG:Q2/2026": {
+  "background": "MWGは2026年第2四半期および上半期の財務報告に関して、前年同期比での変動に関する説明を開示しました。市場全体では2026年の利益見通しが引き続き堅調に評価されており、特に小売セクターは同四半期の利益の注目点の一つとして挙げられています。MWGの2026年第2四半期の売上高は前年同期比29.6%増、純利益は同102.4%増と大幅な成長を遂げ、売上高純利益率は6.9%でした。",
+  "outlook": "市場全体の年間利益成長見通しが維持される中、MWGの純利益は前期比でも21.7%増加しており、好調な業績は継続する可能性があります。業種平均を下回るPERと高いROEも、今後の市場評価における論点となるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T11:02",
+    "title": "MWG: Giải trình BCTC quý 2/2026 và 6 tháng đầu năm so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-08-01T15:13",
+    "title": "Triển vọng lợi nhuận thị trường năm 2026 tiếp tục được đánh giá khả quan"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "NAB:Q2/2026": {
+  "background": "Nam A Bank (NAB)は、2026年第2四半期の純利益変動について前年同期比での説明を開示しました。同期の売上は前年同期比52.6%増と大幅な成長を遂げた一方で、純利益は前年同期比16.9%増、前四半期比では7.5%減となりました。報道によると、2026年上半期の税引前利益は前年同期比25%増を達成し、資産の質も著しく改善したとされています。",
+  "outlook": "純利益は前年同期比で増加したものの、前四半期比では減少しており、この変動の具体的な要因が今後の注視点となる可能性があります。上半期に資産の質が改善したとの報道はポジティブな要素と見られ、業界平均と比較して低いPERと高いROEは今後の市場評価に影響を与えるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T14:24",
+    "title": "NAB: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T09:53",
+    "title": "Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-31T18:20",
+    "title": "NAB: Lợi nhuận Nam A Bank tăng 25%, chất lượng tài sản cải thiện rõ nét trong nửa đầu năm"
+   }
+  ],
+  "method": "gemini"
+ },
+ "OCB:Q2/2026": {
+  "background": "OCBは2026年第2四半期の税引後純利益の前年同期比変動について公式に説明しました。同四半期の売上は前年同期比37.4%増加し、純利益は同22.7%増加しましたが、前期比ではわずか0.2%の減少となりました。この時期、銀行業界全体では多くの金融機関が指数関数的な利益成長を記録し、一部は史上最高の利益水準に達したと報道されています。",
+  "outlook": "売上高純利益率は13.3%、ROEは13.0%と示され、PERは業界平均を下回る7.1となっています。銀行業界全体の預金金利が安定しているとの報道もあり、今後の収益性や市場評価の動向が注目されるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T14:22",
+    "title": "OCB: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T09:53",
+    "title": "Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-02T18:38",
+    "title": "Lãi suất ngân hàng 2/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   }
+  ],
+  "method": "gemini"
+ },
+ "PHR:Q2/2026": {
+  "background": "当社の2026年第2四半期決算は、売上が前年同期比10.4%増、純利益が前年同期比291.1%増（前期比29.9%増）と大幅な成長を示し、売上高純利益率は91.1%となりました。一方、2025年度決算に関しては、純利益差異の説明開示遅れについてホーチミン証券取引所から注意喚起がありました。複数の報道では、当社の属するゴム・工業団地不動産セクターが2026年第2四半期の成長を牽引する分野の一つとして言及されています。",
+  "outlook": "現状の純利益の大幅な伸びと91.1%の売上高純利益率は、堅調な収益体質を示唆している可能性があります。市場の報道ではゴム・工業団地不動産セクターが引き続き成長の牽引役となるとされており、これは当社の今後の事業展開にとって好材料となるかもしれません。また、PERが業種平均を下回っている状況は、今後の市場評価における論点となる可能性も考えられます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-04-21T10:35",
+    "title": "PHR: Nhắc nhở chậm CBTT BCTC giải trình chênh lệch LNST trên BCTC kiểm toán 2025 so với quý 4/2025"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   },
+   {
+    "source": "Báo Pháp Luật",
+    "date": "2026-07-11T21:10",
+    "title": "Lợi nhuận quý II/2026: Bán lẻ, dầu khí, cao su và thép được dự báo dẫn dắt đà tăng trưởng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SHB:Q2/2026": {
+  "background": "Sahabank（SHB）の2026年第2四半期は、売上が前年同期比20.9%増加しました。しかしながら、純利益は前年同期比2.3%減少、前期比4.4%減少となりました。2026年上半期全体では、税引前利益が9兆92億ドンに達し、年間計画の51%を達成しています。",
+  "outlook": "市場全体の動向としては、2026年第2四半期の企業決算が出揃った後も、2026年通年の利益成長見通しは維持されており、市場の利益見通しは引き続き良好と評価されています。",
+  "sources": [
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-08-01T15:13",
+    "title": "Triển vọng lợi nhuận thị trường năm 2026 tiếp tục được đánh giá khả quan"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T13:12",
+    "title": "SHB: Lãi hơn 9.000 tỷ đồng trong 6 tháng, hoàn thành 51% kế hoạch năm"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SSB:Q2/2026": {
+  "background": "SeABank (SSB)の2026年第2四半期決算では、売上高が前年同期比26.3%増加したものの、純利益は前年同期比12.6%減、前期比10.8%減となりました。これは、多くの銀行が高収益を報告する中で一部の銀行が利益減少に見舞われているという報道内容と合致しており、同社からは利益変動に関する説明が開示されています。",
+  "outlook": "売上高の増加にもかかわらず純利益が減少している点や、PERが業界平均を上回っている点からは、今後の収益性に関する課題が考慮される可能性があります。また、4月に多くの銀行が預金金利を引き下げたという業界全体の動きも、今後の銀行セクターの収益状況に影響を与える要因の一つとなるかもしれません。",
+  "sources": [
+   {
+    "source": "Báo Thanh Niên",
+    "date": "2026-05-06T19:20",
+    "title": "Bất ngờ xuất hiện ngân hàng công bố lợi nhuận đi lùi"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-04-30T20:11",
+    "title": "33 ngân hàng giảm lãi suất huy động trong tháng 4"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SSI:Q2/2026": {
+  "background": "2026年上半期、市場流動性は改善したものの、証券会社の業績は多様な結果を示しました。この中でSSIの2026年第2四半期は、売上が前年同期比10.9%増、純利益は同27.3%増となりましたが、前期比では3.6%減益でした。純利益率は37.1%を記録しましたが、同四半期にはVPBankSが証券業界全体の利益でSSIを上回り、「旧王者」の地位を明け渡したと報じられています。",
+  "outlook": "証券業界では信用取引と自己勘定取引の利益動向が分かれる中で、SSIは業界の利益首位の座をVPBankSに譲る形となりました。市場の流動性改善が続く中、SSIが競争力を維持し、収益性を向上させるための戦略、特に利益変動要因への対応が今後の論点となるでしょう。PERが業界平均を下回る現状も踏まえ、持続的な成長への対応が注目されます。",
+  "sources": [
+   {
+    "source": "Vietnam Finance",
+    "date": "2026-07-27T10:36",
+    "title": "Công ty chứng khoán lãi nghìn tỷ: Hai chiều lợi nhuận margin và tự doanh"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-22T13:51",
+    "title": "So kè lợi nhuận nhóm công ty chứng khoán đầu ngành"
+   }
+  ],
+  "method": "gemini"
+ },
+ "STB:Q2/2026": {
+  "background": "Sacombankは2026年第2四半期の個別および連結財務諸表について公式開示を行いました。同期の売上は前年同期比31.4%増と伸長したものの、純利益は前年同期比53.5%減、前期比15.0%減と大幅に減少しました。この結果、売上高純利益率は6.6%となりました。",
+  "outlook": "純利益の大幅な減少という状況において、その詳細な理由については、現在の資料からは明確ではありません。今後の経営陣からの説明や市場環境の変化が注目されます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T16:18",
+    "title": "STB: Giải trình BCTC riêng và hợp nhất Quý 2 năm 2026"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T23:20",
+    "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-03T13:58",
+    "title": "STB: AgriS vượt kế hoạch doanh thu, tăng tốc mở rộng hệ sinh thái nông nghiệp – thực phẩm"
+   }
+  ],
+  "method": "gemini"
+ },
+ "TPB:Q2/2026": {
+  "background": "TPBankの2026年第2四半期決算では、売上が前年同期比で42.4%増加し、純利益も前年同期比16.0%増、前期比12.4%増となりました。売上高純利益率は15.2%を記録しています。この時期、報道によると、他の複数の民間銀行も堅調な利益成長を報告しており、銀行業界全体としては好調な傾向が見られるものの、一部では資金調達コストや引当金計上による利益圧力が存在したとされています。",
+  "outlook": "TPBankの当期業績は売上・純利益ともに堅調な伸びを示しており、ROEは17.2%です。PERは5.3と、業界平均の8.7と比較して低い水準にあり、市場からの評価に関して注目すべき点があるかもしれません。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-21T15:35",
+    "title": "Đến chiều 21/7, đã có 9 ngân hàng công bố lợi nhuận 6 tháng: Techcombank lãi hơn 18.500 tỷ, lộ diện nhà băng dẫn đầu khối tư nhân"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-21T09:28",
+    "title": "Cập nhật lợi nhuận ngân hàng sáng 21/7: Thêm ba nhà băng báo lãi tăng, mới chỉ có một ngân hàng sụt giảm"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VCB:Q2/2026": {
+  "background": "Vietcombank (VCB)は2026年第2四半期に売上高40.6%増（YoY）、純利益64.7%増（YoY）/53.8%増（QoQ）と大幅な増益を達成しました。純利益率は36.9%でした。報道によると、同行は同四半期に銀行業界史上最高の利益水準を記録し、他行との差を広げ続けています。",
+  "outlook": "業界最高の利益水準を達成した同社が、他の急速に利益成長している銀行群の中で、今後もその優位性を維持できるかが論点となるでしょう。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T23:20",
+    "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T09:53",
+    "title": "Những ngân hàng đang tăng trưởng lợi nhuận nhanh nhất: Nhiều nhà băng tăng theo cấp số nhân, xuất hiện mức lãi cao nhất lịch sử"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VHM:Q2/2026": {
+  "background": "Vinhomes.,JSC（VHM）の2026年第2四半期決算では、売上が前年同期比177.8%増、純利益が同221.8%増と大幅な増益となりました。売上高純利益率は50.2%を達成しています。また、親会社であるVingroup（VIC）も上半期の連結決算で不動産事業からの積極的な成長を要因として挙げており、市場全体としては第2四半期の企業業績発表を経て、2026年の利益見通しは引き続き堅調に評価されているようです。",
+  "outlook": "VHMの純利益は前期比で3.3%の増加に留まりましたが、PERが7.7と業種平均（20.9）を大きく下回る一方で、ROEは31.3%と高い水準を維持しています。市場の2026年通期の利益成長見通しが維持されている中、これらの数値は今後の評価において注目される可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-08-01T15:13",
+    "title": "Triển vọng lợi nhuận thị trường năm 2026 tiếp tục được đánh giá khả quan"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T09:40",
+    "title": "VIC: Vingroup lãi sau thuế 20.375 tỷ đồng trong 6T2026, gấp 4,5 lần cùng kỳ"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VNM:Q2/2026": {
+  "background": "VINAMILKはQ2/2026の業績について公式に説明を行いました。同四半期の親会社株主に帰属する税引後純利益は前年同期比28.0%増の3,167億ドンに達し、売上も12.7%増加しました。この利益成長は主に輸出市場の好調と国内需要の回復に支えられ、利益率の改善と26兆5,000億ドンを超える巨額の現金保有に貢献したと報じられています。",
+  "outlook": "輸出市場の勢いと国内需要の回復基調が維持されれば、今後も堅調な業績が見込まれる可能性があります。高い売上高純利益率16.9%とROE30.7%、および潤沢な現金は、今後の事業戦略において会社の柔軟性を高める要因となり得ます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T11:13",
+    "title": "VNM: Giải trình báo cáo KQKD Quý 2 và 6 tháng năm 2026"
+   },
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-07-31T20:15",
+    "title": "Khối ngoại chi hơn 270 tỷ đồng gom cổ phiếu Vietcombank sau kết quả kinh doanh bứt tốc"
+   },
+   {
+    "source": "Thông tin doanh nghiệp",
+    "date": "2026-07-31T19:59",
+    "title": "VNM: Vinamilk lãi ròng quý II vượt 3.100 tỷ đồng, nắm giữ khối tiền mặt hơn 26.500 tỷ"
+   }
+  ],
+  "method": "gemini"
  }
 }

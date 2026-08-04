@@ -64,5 +64,31 @@
  "NVL:Q2/2026": null,
  "REE:Q2/2026": null,
  "SBT:Q2/2026": null,
- "VPL:Q2/2026": null
+ "VPL:Q2/2026": null,
+ "BID:Q2/2026": null,
+ "CTG:Q2/2026": null,
+ "GAS:Q2/2026": null,
+ "GVR:Q2/2026": null,
+ "MBB:Q2/2026": null,
+ "MSB:Q2/2026": null,
+ "MWG:Q2/2026": {
+  "date": "2026-07-30T15:52",
+  "source": "Tạp chí Nhịp sống thị trường",
+  "title": "MWG: “Cứ mở cửa hàng là lãi”, lợi nhuận Bách Hóa Xanh lập kỷ lục"
+ },
+ "NAB:Q2/2026": null,
+ "OCB:Q2/2026": null,
+ "PHR:Q2/2026": null,
+ "SHB:Q2/2026": null,
+ "SSB:Q2/2026": null,
+ "SSI:Q2/2026": null,
+ "STB:Q2/2026": null,
+ "TPB:Q2/2026": null,
+ "VCB:Q2/2026": null,
+ "VHM:Q2/2026": null,
+ "VNM:Q2/2026": {
+  "date": "2026-07-26T13:17",
+  "source": "Nhà đầu tư",
+  "title": "Ngành sữa khởi sắc: Vinamilk lãi kỷ lục, IDP thoát lỗ ngoạn mục"
+ }
 }
