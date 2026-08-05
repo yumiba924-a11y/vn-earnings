@@ -1334,5 +1334,271 @@
    }
   ],
   "method": "gemini"
+ },
+ "DIG:Q2/2026": {
+  "background": "DIGの2026年第2四半期は、売上が前年同期比125.3%増、純利益が同95.2%増と大幅な増益を達成しました。この好調は、不動産収入の堅調な増加に加え、3兆140億ドン以上の定期預金による金融収益が寄与し、税引前利益の約49%を占めたことが主要因と報じられています。前四半期に99億ドンの純損失を計上していた状況からの回復が見られます。",
+  "outlook": "第2四半期の好業績は金融収益に大きく依存している側面があるため、今後の収益構造における不動産事業と金融収益のバランスが引き続き注目されるでしょう。また、株価指標PERが業種平均を下回っていることから、市場は今後の持続的な成長性やリスク要因を注視している可能性も考えられます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-30T17:10",
+    "title": "DIG: Giải trình biến động LNST trên BCTC quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T14:48",
+    "title": "DIG: 'Cất' hơn 3.140 tỷ đồng trong ngân hàng, doanh thu tài chính đóng góp gần 49% lợi nhuận quý II của DIG"
+   },
+   {
+    "source": "Báo Pháp Luật",
+    "date": "2026-04-30T23:43",
+    "title": "DIG: DIC Corp báo lỗ 9,9 tỷ đồng trong quý I/2026, mục tiêu lãi 600 tỷ ngày càng xa"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HPG:Q2/2026": {
+  "background": "Hoa Phat Groupの2026年第2四半期の売上高は前年同期比53.6%増、純利益は同50.6%増となりました。しかしながら、純利益は前期比では29.1%減少しています。この半期決算報告後、市場全体の外国人投資家の売り越し規模が大幅に縮小する中で、外国人投資家がHPG株への買い入れを再開したとの報道があります。",
+  "outlook": "前期比での純利益減少は注目すべき点ですが、外国人投資家がHPG株への資金投入を再開していることは、今後の市場評価におけるポジティブな要素となり得ます。業界平均を下回るPERや高いROEも鑑み、今後の動向が注目されます。",
+  "sources": [
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-07-31T20:15",
+    "title": "Khối ngoại chi hơn 270 tỷ đồng gom cổ phiếu Vietcombank sau kết quả kinh doanh bứt tốc"
+   },
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-07-29T23:46",
+    "title": "Khối ngoại tiếp tục giải ngân vào cổ phiếu Hòa Phát sau báo cáo lợi nhuận nửa đầu năm"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HSG:Q2/2026": {
+  "background": "Hoa Sen Group (HSG)の2026年第2四半期（会計年度2025-2026年第3四半期）決算では、純利益が前年同期比39.6%増、前期比209.6%増と大幅な成長を記録しました。売上高は前年同期比5.1%増となりましたが、会計年度9ヶ月間の累積売上高は前年同期比2.9%減を記録しています。同社は利益変動について公式な説明を開示しており、総資産は22兆2000億ドンを超える水準です。",
+  "outlook": "好調な四半期純利益の伸びに対し、累積売上高の減少傾向は今後の注目点となりそうです。現在のPERは13.3倍と業種平均の8.9倍を上回っており、売上高純利益率3.8%、ROE5.7%と共に、投資評価においては多角的な分析が必要となるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-29T15:47",
+    "title": "HSG: Giải trình KQKD HN và Cty mẹ quý III NĐTC 2025-2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-07-30T22:17",
+    "title": "HSG: Hoa Sen báo lãi hơn 568 tỷ đồng sau 9 tháng, tổng tài sản vượt 22.200 tỷ đồng"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-29T23:12",
+    "title": "Cập nhật BCTC quý 2/2026 sáng ngày 30/7: Loạt doanh nghiệp tên tuổi đã công bố, nhiều kết quả bất ngờ"
+   }
+  ],
+  "method": "gemini"
+ },
+ "KDH:Q2/2026": {
+  "background": "KDHの2026年第2四半期は、不動産事業の売上が過去4年間で最低水準となり、全体売上も前年同期比で84.7%の大幅な減少となりました。一方で、約900億ドンに上る金融利益や資産売却益が貢献し、純利益は前年同期比292.3%増、前期比135.5%増と記録的な高水準に達しました。これにより、売上高純利益率は479.4%となりましたが、これは他社でも見られる資産売却による利益計上と類似した状況と報じられています。",
+  "outlook": "記録的な純利益は主に非経常的な金融利益や資産売却益によるものであり、中核である不動産事業の売上は低迷が続いているため、今後の持続的な収益性については慎重な評価が必要と思われます。報道によると、中核事業はまだ本格的に回復していないとされており、これが今後の主要な論点となるでしょう。",
+  "sources": [
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-04T17:05",
+    "title": "KDH: Nhà Khang Điền lãi kỷ lục nhờ thoái vốn, doanh thu bất động sản chạm đáy 4 năm"
+   },
+   {
+    "source": "Báo Tiền Phong",
+    "date": "2026-07-31T20:56",
+    "title": "Nhiều doanh nghiệp thoát lỗ, báo lãi nhờ thoái vốn"
+   }
+  ],
+  "method": "gemini"
+ },
+ "NKG:Q2/2026": {
+  "background": "Nakisco（NKG）は2026年第2四半期において、売上高が前年同期比で9.0%増加し、純利益は前年同期比12.1%増、前期比378.4%増を記録しました。売上高純利益率は2.5%でした。同社は第2四半期の連結および単独の業績変動について公式の説明を開示しており、これは、中核事業や一時的な収入に支えられた企業と、高い比較基盤や輸出市場の圧力に直面した企業とで利益状況が二極化した市場環境下での業績と見られます。",
+  "outlook": "第2四半期の純利益が前期比で大幅に増加した特定の要因について、今後の詳細な情報が注目される可能性があります。また、現在のPERが32.6と業種平均の8.9と比較して高水準にあることから、今後の市場評価や株価動向が論点となりえます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T08:59",
+    "title": "NKG: Giải trình chênh lệch KQKD HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-07-07T11:16",
+    "title": "Dự báo lợi nhuận quý II/2026: Doanh nghiệp nào được kỳ vọng bứt phá?"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-06T22:46",
+    "title": "Dự báo lợi nhuận quý 2 của 57 doanh nghiệp \"hot\": Hai cái tên có thể tăng trưởng trên 700%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "NLG:Q2/2026": {
+  "background": "NLG Corpの2026年第2四半期は、製品引き渡し件数の減少が主な要因となり、売上高が前年同期比で46.3%減、純利益が32.1%減と大幅な減収減益となりました。不動産市場全体はまだ回復基調にないものの、一部の不動産企業は金融活動や販売からのキャッシュフロー確保を通じて業績を維持している状況が報じられています。",
+  "outlook": "市場が依然として低迷する中、NLGの今後の業績は製品引き渡し件数の回復にかかっていると考えられます。他の不動産企業が収益維持のために様々な戦略を取っていることから、NLGが今後どのような財務活動や販売戦略を展開するかが注目されるかもしれません。",
+  "sources": [
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-02T20:08",
+    "title": "NLG: Lượng sản phẩm bàn giao giảm, doanh thu và lợi nhuận của Nam Long đi xuống"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-07-31T19:37",
+    "title": "Thị trường chưa khởi sắc, nhiều 'đại gia' bất động sản vẫn lập kỷ lục doanh thu, nhờ đâu?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PDR:Q2/2026": {
+  "background": "PDRの2026年第2四半期決算では、売上高が前年同期比168.5%と大幅に増加したものの、純利益は前期比で41.5%減少しました。これは一部報道によると、不動産市場がまだ回復基調にない中で、投資の清算による収益が利益成長の主な要因であり、売上高純利益率は150.4%に達しています。",
+  "outlook": "不動産市場が依然として回復途上にある中で、投資の清算に依存した利益構造は、今後の持続的な収益性において注目すべき論点と考えられます。業界平均をわずかに上回るPERやROE5.0%といった指標も、今後の事業動向を評価する上で考慮されるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T10:55",
+    "title": "PDR: Giải trình KQKD Quý 2 năm 2026"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-07-31T19:37",
+    "title": "Thị trường chưa khởi sắc, nhiều 'đại gia' bất động sản vẫn lập kỷ lục doanh thu, nhờ đâu?"
+   },
+   {
+    "source": "Vietnam Finance",
+    "date": "2026-07-31T17:15",
+    "title": "PDR: Phát Đạt báo lãi tăng 24%, tiền mặt gấp 4 lần nhờ loạt thương vụ thoái vốn"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PLX:Q2/2026": {
+  "background": "Q2/2026において、卸売業のPetrolimex (PLX) は、売上高が前年同期比で約78.0%増加し、純利益も同113.8%増と大幅な増益を記録しました。同社はQ2/2026の財務諸表について前年同期比の変動を説明する開示を行っており、報道ではガソリン・石油価格の調整が企業に有利に働いた可能性が指摘されています。",
+  "outlook": "今後の見通しとしては、世界のガソリン・石油価格の変動が企業の収益に与える影響、および価格調整が企業と消費者の利益バランスにどう影響するかが引き続き注視される可能性があります。また、業界平均を上回るPER (13.1倍) が市場評価にどのように影響するかも今後の論点となるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T14:12",
+    "title": "PLX: Giải trình BCTC quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Báo Tiền Phong",
+    "date": "2026-08-04T20:32",
+    "title": "Đầu mối xăng dầu lãi lớn: Do điều hành giá có lợi cho doanh nghiệp?"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-02T17:55",
+    "title": "PLX: Petrolimex báo doanh thu, lợi nhuận tăng mạnh"
+   }
+  ],
+  "method": "gemini"
+ },
+ "POW:Q2/2026": {
+  "background": "PV POWER（POW）の2026年第2四半期決算は、売上が前年同期比116.1%増、純利益が同387.0%増と大幅な成長を記録しました。第2四半期はエネルギー・化学セクター全体で利益が好調に推移し、収益性が改善した傾向と一致しています。この好調な業績により、PV POWERは上半期で既に2026年通期の利益目標を10%上回って達成しました。売上高純利益率は18.3%でした。",
+  "outlook": "今期の利益の大幅な伸びは主にコア事業の運営効率によるものと報じられており、この傾向が今後も維持されるかが注目されます。通期目標を早期に達成した後の事業戦略や収益性の持続性が、今後の業績を占う上での焦点となるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T14:13",
+    "title": "POW: Giải trình một số chỉ tiêu trên BCTC quý 2/2026"
+   },
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-08-01T10:34",
+    "title": "Vì sao nhóm năng lượng - hóa chất trở thành điểm sáng của mùa báo cáo tài chính quý II/2026?"
+   },
+   {
+    "source": "",
+    "date": "2026-07-31T11:00",
+    "title": "POW: Chỉ sau 6 tháng, PV Power vượt chỉ tiêu lợi nhuận cả năm 2026"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SIP:Q2/2026": {
+  "background": "SVRG CORP（SIP）の2026年上半期の売上は、電力・水道などの工業団地向けユーティリティサービスが約88%を占め、従来の土地・インフラ賃貸事業を上回る主要な収益源となっています。工業団地不動産セクター全体が、2026年第1四半期に地政学、インフレ、関税政策の変更といったマクロ経済的要因により過去2年で最低水準の利益を記録する厳しい状況下、SIPは2026年第2四半期に売上が前年同期比12.8%増、純利益が同40.7%増と堅調な業績を示しました。",
+  "outlook": "工業団地不動産セクター全体がマクロ経済要因への適応を進める中、SIPはユーティリティサービスを主要な収益源とすることで、堅調な業績を維持している可能性があります。高い売上高純利益率（18.6%）とROE（27.5%）、そして業種平均を大きく下回るPER（8.4倍 vs 業種19.2倍）は、同社の今後の戦略と市場評価の動向に注目が集まることを示唆しています。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-05-04T11:12",
+    "title": "SIP: Giải trình biến động LNST quý 1/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-04T17:09",
+    "title": "SIP: Tiện ích khu công nghiệp tiếp tục là \"đầu kéo\" doanh thu của Sài Gòn VRG"
+   },
+   {
+    "source": "Báo Pháp Luật",
+    "date": "2026-05-14T00:03",
+    "title": "Bất động sản khu công nghiệp: Lợi nhuận quý I chạm đáy hai năm, lộ diện chiến lược thích ứng mới"
+   }
+  ],
+  "method": "gemini"
+ },
+ "SJS:Q2/2026": {
+  "background": "SJ Groupは2026年第2四半期に売上高で前年同期比121.0%増、純利益で同134.9%増を記録し、この純利益の変動について公式の説明を開示しました。上半期全体の税引前利益も前年同期比143.1%増となり、主要報道では過去最高益と報じられています。第1四半期の利益増加は、ナムアンカインプロジェクトの継続的な事業活動によるものと説明されていました。",
+  "outlook": "しかし、営業キャッシュフローは約5000億ドン（ベトナム通貨）のマイナスを記録し、買い手からの前受金も97.4%減少しました。現時点での収益の多くは2025年の前受金によるものであったため、今後の四半期において、収益源とキャッシュフローを維持するための課題が増加する可能性が指摘されています。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T11:18",
+    "title": "SJS: Giải trình chênh lệch LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-08-03T20:18",
+    "title": "SJ Group ghi nhận lợi nhuận kỷ lục, nhưng dòng tiền kinh doanh âm gần 500 tỷ đồng"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-04-22T22:00",
+    "title": "SJS: Một cổ phiếu bất động sản \"bốc đầu\" kịch trần sau khi báo lãi tăng bằng lần"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VIC:Q2/2026": {
+  "background": "VINGROUPの2026年第2四半期決算は、売上が前年同期比154.0%増、純利益が同542.9%増（前期比163.1%増）と顕著な伸びを示し、売上高純利益率は12.5%となりました。これは、市場全体で第2四半期の企業業績報告が発表され、年間利益見通しが引き続き良好と評価されている状況下での業績です。",
+  "outlook": "市場全体の年間利益見通しは引き続き堅調と見られるものの、同社のPERは68.5と業種平均の19.2を大幅に上回っており、市場からの高い成長期待が織り込まれている可能性が示唆されます。",
+  "sources": [
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-08-01T15:13",
+    "title": "Triển vọng lợi nhuận thị trường năm 2026 tiếp tục được đánh giá khả quan"
+   },
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-07-31T20:15",
+    "title": "Khối ngoại chi hơn 270 tỷ đồng gom cổ phiếu Vietcombank sau kết quả kinh doanh bứt tốc"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VJC:Q2/2026": {
+  "background": "VIETJET., JSCの2026年第2四半期決算では、売上が前年同期比70.5%増と大幅な成長を見せた一方で、純利益は前年同期比46.5%減、前期比65.9%減と大きく減少しました。同社はこの業績変動について、公式に説明を行うと開示しています。関連報道では、同社が2025年に地上サービスを自社供給に切り替えたことや、2026年第1四半期に受取利息などの金融収益が大幅に増加したことが報じられています。",
+  "outlook": "売上高は増加しているものの純利益が大幅に減少しており、会社による具体的な変動要因の説明が待たれます。売上高純利益率が1.1%と低い水準にあることや、業種平均を上回るPER 44.7は、今後の収益性改善や効率的な事業運営が注目される可能性を示唆しています。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-30T17:07",
+    "title": "VJC: Giải trình biến động KQKD quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-06-04T21:47",
+    "title": "Gửi ngân hàng, cho đối tác vay, tập đoàn của các tỉ phú nhận mấy tỉ tiền lãi mỗi ngày?"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-06-01T17:19",
+    "title": "SGN: Công ty cổ phần Phục vụ mặt đất Sài Gòn giảm lãi sau khi mất khách 'ruột' Vietjet Air"
+   }
+  ],
+  "method": "gemini"
  }
 }
