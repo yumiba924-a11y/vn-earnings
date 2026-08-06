@@ -1600,5 +1600,371 @@
    }
   ],
   "method": "gemini"
+ },
+ "BAF:Q2/2026": {
+  "background": "BAFの2026年第2四半期は、売上が前年同期比54.1%増の2,137億ドンに達し、大幅な増収を記録しました。しかし、純利益は前年同期比50.0%減、前期比49.2%減と大きく落ち込み、104億ドンとなりました。結果として、売上高純利益率は4.9%にとどまっています。",
+  "outlook": "堅調な売上成長にもかかわらず、純利益の大幅な減少と低い売上高純利益率は、収益性における課題を示唆している可能性があります。また、業界平均（14.5）を大きく上回るPER 173.5と低いROE 1.5%は、現在の収益性が市場の評価と乖離している可能性があり、今後の収益性維持または改善が論点となるかもしれません。",
+  "sources": [
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-02T20:04",
+    "title": "BAF: Doanh thu quý II/2026 tăng 54%, lợi nhuận giảm một nửa"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-05-21T22:04",
+    "title": "Cùng nuôi heo, nuôi gà, tỉ phú nào lãi đậm hơn?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "BCM:Q2/2026": {
+  "background": "Becamex Group（BCM）は2026年第2四半期において、売上が前年同期比69.3%減、純利益が同85.7%減、前期比26.8%減となり、純利益は211.1億VNDを計上しました。上半期の累計純利益は320.5億VNDで、前年同期比82.6%の大幅な減少を記録しています。この利益減少は、債務が自己資本を上回る状況下で発生しており、主要報道では工業団地不動産セクターの利益が「底を打った」と報じられています。",
+  "outlook": "現状の債務が自己資本を上回る状況と利益の大幅な減少は、引き続き懸念材料となる可能性があります。しかし、報道で示唆された工業団地不動産セクターの利益が『底を打った』という見方もあり、今後の市場動向や財務状況の改善が注目されるでしょう。",
+  "sources": [
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-08-05T13:29",
+    "title": "BCM: Lợi nhuận sụt giảm mạnh, nợ vay vượt vốn chủ sở hữu"
+   },
+   {
+    "source": "Tạp chí Nhà quản trị",
+    "date": "2026-06-26T06:26",
+    "title": "Bất động sản khu công nghiệp 'chạm đáy' lợi nhuận"
+   }
+  ],
+  "method": "gemini"
+ },
+ "BSR:Q2/2026": {
+  "background": "BSRは2026年第2四半期において、売上が前年同期比59.7%増、純利益が同781.2%増と大幅な増益を達成しました。同社はこの純利益の変動について公式な説明を開示しており、純利益は前期比では9.7%減少しています。市場全体としては、2026年の利益成長見通しは引き続き良好と評価されています。",
+  "outlook": "BSRは高いROE30.0%と、業種平均（7.7）を下回るPER6.4を示していますが、純利益の前期比減少（-9.7%）に関しては、同社が開示した変動理由が今後の業績を判断する上での主要な論点となる可能性があります。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T14:50",
+    "title": "BSR: Giải trình biến động LNST trên BCTC quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-08-04T14:07",
+    "title": "Siết hàng giả tạo cú hích cho bán lẻ hiện đại: MWG và FPT Retail lãi kỷ lục, tích lũy tiền khủng"
+   },
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-08-01T15:13",
+    "title": "Triển vọng lợi nhuận thị trường năm 2026 tiếp tục được đánh giá khả quan"
+   }
+  ],
+  "method": "gemini"
+ },
+ "BVH:Q2/2026": {
+  "background": "Tập đoàn Bảo Việt (BVH)はQ2/2026の業績（監査前）を公表し、会社開示では当該期の業績成長について説明があったとされています。報道によると、2026年上半期の連結総収入は32兆40億VND超に達し、前年同期比9.2%の増加となりました。Q2単独では売上高は前年同期比0.4%増と微増でしたが、純利益は前年同期比53.1%の大幅な成長を示しました。",
+  "outlook": "上半期の連結総収入は堅調な伸びを見せたものの、Q2単独の売上高成長率は比較的緩やかでした。しかし、純利益が大幅に増加し、売上高純利益率も9.8%と良好であることから、収益性の改善傾向が継続している可能性が考えられます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-08-04T13:49",
+    "title": "BVH: Giải trình tăng trưởng KQKD Quý 2 năm 2026 - Công ty mẹ (trước soát xét)"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-07-31T16:31",
+    "title": "BVH: Tổng doanh thu hợp nhất 6 tháng đầu năm 2026 đạt hơn 32.000 tỷ đồng, tăng trưởng 9,2%"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-06-02T08:58",
+    "title": "Doanh nghiệp bảo hiểm lớn nhất Việt Nam sắp họp cổ đông bàn kế hoạch kinh doanh và phân phối lợi nhuận"
+   }
+  ],
+  "method": "gemini"
+ },
+ "CII:Q2/2026": {
+  "background": "CIIは2025年度の監査済み業績変動に関する説明を開示しました。2026年第2四半期において、同社はPC1株への投資から一時的に1130億ドンを超える利益を計上したものの、金融収益の縮小と資本コストの圧力により、純利益は前年同期比で大幅に減少しました。結果として、売上高は前年同期比2.9%増に留まり、純利益は同38.2%減となりましたが、前期比では35.5%増を記録し、売上高純利益率は7.3%でした。",
+  "outlook": "PC1への投資による一時的な利益があったものの、金融収益の縮小や資本コストの圧力が継続的な収益性への課題となる可能性があります。また、業種平均を大幅に上回るPER（79.8倍、業種平均10.9倍）と低水準のROE（1.0%）から、今後の収益改善と資本効率が重要な論点になると考えられます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-03-27T17:33",
+    "title": "CII: Giải trình biến động KQKD HN đã kiểm toán năm 2025"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-05T16:57",
+    "title": "CII tạm lãi hơn 113 tỷ đồng từ khoản đầu tư PC1, lợi nhuận vẫn giảm mạnh"
+   },
+   {
+    "source": "Báo Tuổi trẻ",
+    "date": "2026-07-31T19:47",
+    "title": "Mua PC1 ở vùng giá thấp, ‘ông lớn’ hạ tầng tại TP.HCM tạm lãi hơn 113 tỉ đồng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "DPM:Q2/2026": {
+  "background": "PVFCCo (DPM) は2026年第2四半期の決算を発表し、業績変動について公式な説明を行いました。この四半期、DPMは売上が前年同期比31.8%増、純利益が同121.5%増（前期比122.8%増）と好調でした。同社が属するエネルギー・化学セクターは、主に中核事業の効率化により、力強い利益成長と収益性の向上が見られ、また肥料業界においては尿素価格の回復サイクルが株価に新たな動きをもたらしていると報じられています。",
+  "outlook": "尿素価格の回復サイクルが肥料業界に新たな動機付けを与えている中、DPMのような「二大企業」の一つが成長ペースを維持する可能性があると見られます。ただし、業界全体で見ると利益動向に差異が生じており、価格回復の恩恵は全ての企業に均等ではないという論点も存在します。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T10:50",
+    "title": "DPM: Giải trình biến động KQKD BCTC Quý 2 năm 2026"
+   },
+   {
+    "source": "Thời báo tài chính VN",
+    "date": "2026-08-04T08:53",
+    "title": "Lợi nhuận ngành phân bón phân hóa, hai “ông lớn” giữ nhịp tăng trưởng"
+   },
+   {
+    "source": "Tạp chí tài chính",
+    "date": "2026-08-01T10:34",
+    "title": "Vì sao nhóm năng lượng - hóa chất trở thành điểm sáng của mùa báo cáo tài chính quý II/2026?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "DXG:Q2/2026": {
+  "background": "Bluemarq Group (DXG)の2026年第2四半期は、プロジェクト引き渡しや不動産サービスが寄与し、売上高は前年同期比7.3%増加しました。一方で、販売活動、運営、事業展開支援のための資源強化に伴うコストの急増が主因とされ、純利益は前年同期比で87.0%の大幅な減少となりました。同社は四半期純利益の変動について公式に説明を開示しています。",
+  "outlook": "売上増にもかかわらず大幅な減益となった現状は、高騰するコストが収益性を圧迫している可能性を示唆しています。この傾向が続けば、今後の費用効率の改善が経営上の重要な課題となるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T10:36",
+    "title": "DXG: Giải trình chênh lệch LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-08-01T18:07",
+    "title": "DXG: Chi phí tăng cao khiến lợi nhuận DXG giảm sâu"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-08-01T10:51",
+    "title": "DXG: Bluemarq Group tăng doanh thu song lợi nhuận đi lùi vì chi phí phình to"
+   }
+  ],
+  "method": "gemini"
+ },
+ "DXS:Q2/2026": {
+  "background": "DXSの2026年第2四半期決算は、売上が前年同期比35.1%減となる中、純利益も大幅な赤字を計上し、前年同期比114.3%減、前期比115.6%減となりました。売上高純利益率もマイナス7.2%と振るわず、同期間には売上が大きく増加した企業でさえ損失を計上する事例が複数見られるなど、不動産業界全体が厳しい状況にあったことが伺えます。",
+  "outlook": "今後の見通しとしては、金利が住宅・商業用不動産市場の購買力と流動性を引き続き左右する主要因であると報じられています。そのため、金利動向が当社を含む不動産セクターの収益性に影響を与える重要な論点となる可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-05T09:18",
+    "title": "Top DN lỗ lớn nhất quý 2: Ba cái tên đầu bảng âm gần 1.000 tỷ đồng, 1 công ty có doanh thu tăng gần 8 lần vẫn lỗ hơn trăm tỷ"
+   },
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-07-11T15:13",
+    "title": "Lợi nhuận nhóm bất động sản dân cư: Doanh nghiệp nào khởi sắc?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HDB:Q2/2026": {
+  "background": "HDBANKは2026年第2四半期において、売上が前年同期比27.9%増、純利益が同57.7%増（前期比18.3%増）を記録し、売上高純利益率は22.8%でした。これは、上場銀行全体の営業収益が2026年上半期に407兆ドン、税引前利益が205兆ドンを超えたという業界の好調な状況と概ね一致しています。",
+  "outlook": "一方で、上場銀行全体としては金利や不良債権が依然として「隘路」とされており、今後の事業環境における潜在的な課題として注視されます。また、預金金利競争の動向も、資金調達コストへの影響という点で論点となる可能性があります。",
+  "sources": [
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-08-05T18:05",
+    "title": "Lợi nhuận đạt hơn 200 nghìn tỷ, ngân hàng niêm yết vẫn cần \"gỡ nghẽn\""
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-03T23:20",
+    "title": "Lãi suất ngân hàng 3/8 tại Agribank, Vietcombank, BIDV, VietinBank, MB, Sacombank, HDBank,..."
+   }
+  ],
+  "method": "gemini"
+ },
+ "HDG:Q2/2026": {
+  "background": "Ha Do Group (HDG)の2026年第2四半期決算は、売上が前年同期比17.5%減少したものの、純利益は同281.7%の大幅増益を達成しました。この純利益の増加は、財務費用と売上原価の大幅な削減によるものと報じられています。ただし、純利益は前期比ではほぼ横ばいの-0.1%でした。",
+  "outlook": "売上高の減少傾向が見られる中で、コスト削減による高水準の純利益率（21.4%）が今後も維持できるかが主要な論点となりそうです。また、業界平均と比較してPERが低い（10.2 vs 19.6）ことから、市場が現在の利益水準をどのように評価するかも注目点となり得ます。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T16:12",
+    "title": "HDG: Giải trình KQKD Quý 2 năm 2026"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-07-31T18:16",
+    "title": "HDG: Hà Đô báo lãi quý 2 cao gấp 4 lần cùng kỳ nhờ tiết giảm chi phí"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-09T23:19",
+    "title": "Cập nhật KQKD quý 2/2026 ngày 10/7: BSR lãi gấp 5 lần cùng kỳ, một ngân hàng báo lãi 6 tháng tăng 80%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "HHV:Q2/2026": {
+  "background": "HHVは2026年第2四半期の税引後利益の対前年同期比変動について公式説明を行いました。同期の建設業界は利益面で二極化が見られ、多くの企業が減益を報告する中で、HHVは過去最高の利益を記録した前四半期に比べ勢いが落ち着いたと報じられています。当四半期単体では売上高は前年同期比2.5%増、純利益は13.5%増でしたが、前期比では純利益が20.9%減少しました。",
+  "outlook": "純利益が前期比で減少した背景には、過去最高の利益を記録した四半期からの「勢いの落ち着き」があったものと推測されます。建設業界全体の動向とHHVの利益構造、そして現在のPERが業種平均を下回っている状況が今後の注目点となるかもしれません。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T10:32",
+    "title": "HHV: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Doanh nghiệp & Kinh doanh",
+    "date": "2026-08-02T13:48",
+    "title": "Bức tranh lợi nhuận nhóm xây dựng: Vinaconex, Coteccon và Hoà Bình cùng tụt dốc, HHV hạ nhiệt sau quý lãi kỷ lục"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-31T16:53",
+    "title": "HHV: Báo lãi bán niên hơn 389 tỷ đồng"
+   }
+  ],
+  "method": "gemini"
+ },
+ "KBC:Q2/2026": {
+  "background": "Kinhbac City Group (KBC)は2026年第2四半期において、純利益が前年同期比-91.4%、前期比-85.3%と大幅な減少を記録し、これについて公式な説明を行いました。報道によると、この利益の急落は主に工業団地用地からの収益計上が行われなかったことによるものとされており、同時に棚卸資産は33兆3,000億ドン以上に増加しました。売上高は前年同期比で2.5%増加しましたが、売上高純利益率は5.9%に留まりました。",
+  "outlook": "今後の見通しとしては、工業団地用地からの収益認識のタイミングが主要な論点と考えられます。棚卸資産の増加は将来的な収益計上の可能性を示唆しますが、当四半期においては、業界全体で工業団地不動産が収益面で明るい兆しとされている中で、KBCの業績はその一般的なトレンドとは異なる動きを示しました。現在のPERが業界平均を上回り、ROEが比較的低い点も、今後の企業評価に影響を与える可能性があります。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-30T16:51",
+    "title": "KBC: Giải trình biến động LNST trên BCTC Quý 2 năm 2026"
+   },
+   {
+    "source": "Người đưa tin",
+    "date": "2026-07-31T16:27",
+    "title": "KBC: Lợi nhuận Kinh Bắc lao dốc"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "KDC:Q2/2026": {
+  "background": "KIDO GROUP (KDC)の2026年第2四半期の売上は前年同期比で7.3%減少しました。純利益は前年同期比で92.3%と大幅な減少を記録し、売上高純利益率は0.5%にとどまっています。会社は利益変動について公式に説明を開示しており、主要報道では、前年同期にあった投資清算益の計上がなくなったことや、持分法適用会社からの利益減少が主な要因であると報じられています。",
+  "outlook": "今期の利益は年間計画のわずか13%に留まっており、通期の目標達成に向けた進捗には不確実性が残ると考えられます。業界平均と比較してPERが高い水準にある点も、今後の論点となり得るでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T10:32",
+    "title": "KDC: Giải trình biến động LNST quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-08-03T21:00",
+    "title": "KDC: Lãi quý 2 giảm 60%, Kido mới hoàn thành 13% kế hoạch lợi nhuận năm"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-02-03T16:51",
+    "title": "KDC: Lãi tăng đột biến, Kido vẫn không hoàn thành kế hoạch kinh doanh năm 2025"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PNJ:Q2/2026": {
+  "background": "PNJは2026年第2四半期に売上が前年同期比11.9%増加したものの、純利益は164.8%減となり赤字を計上し、売上高純利益率も-3.3%となりました。同社は第2四半期の利益変動について公式に説明を開示しています。主要報道によると、この期間は多くの企業が売上増にもかかわらず赤字に転落しており、PNJもその一角を占めている状況です。",
+  "outlook": "売上が増加傾向にある中で、PNJがどのようにして収益性を改善していくかが今後の重要な論点となりそうです。同社が公表した利益変動に関する説明の詳細が、市場関係者にとって今後の見通しを判断する上で注目されるでしょう。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T09:56",
+    "title": "PNJ: Giải trình chênh lệch lợi nhuận quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-05T09:18",
+    "title": "Top DN lỗ lớn nhất quý 2: Ba cái tên đầu bảng âm gần 1.000 tỷ đồng, 1 công ty có doanh thu tăng gần 8 lần vẫn lỗ hơn trăm tỷ"
+   },
+   {
+    "source": "Tạp chí Diễn đàn doanh nghiệp",
+    "date": "2026-07-31T08:14",
+    "title": "Thấy gì từ báo cáo tài chính quý II/2026 của các doanh nghiệp niêm yết?"
+   }
+  ],
+  "method": "gemini"
+ },
+ "PVD:Q2/2026": {
+  "background": "PV DRILLING CORP（PVD）の2026年第2四半期決算では、売上高が前年同期比23.7%増加したものの、純利益は同28.8%減、前期比40.7%減となりました。当社は、この決算変動について公式に説明を行っていると開示しています。なお、MBSの分析によると、第2四半期の利益は石油・ガスを含む一部のセクターで好調だったと報じられています。",
+  "outlook": "主要報道では、石油・ガスを含む一部のセクターが、事業実績の改善や大型プロジェクトの本格化により、2026年下半期にポジティブな見通しを持つと評価されています。業界全体の利益も大きく増加すると予測されている中、PVDにおいては売上増加にもかかわらず純利益が大幅に減少しており、その要因に関する詳細な説明が注目される論点となりそうです。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T14:14",
+    "title": "PVD: Giải trình BCTC HN và Cty mẹ quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-30T23:10",
+    "title": "Dự báo lợi nhuận quý 2 của 68 doanh nghiệp “hot”: Xuất hiện cái tên có thể tăng trưởng 1.400%"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-21T11:01",
+    "title": "Chu kỳ đầu tư mạnh nhất hơn một thập kỷ, MBS chỉ ra nhóm cổ phiếu đáng chú ý nửa cuối 2026, lợi nhuận ngành dự báo tăng 57%"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VCG:Q2/2026": {
+  "background": "VINACONEX.,JSC (VCG) の2026年第2四半期決算では、売上が前年同期比12.4%減、純利益が同30.2%減（前期比38.1%減）を記録しました。同社は連結および個別財務諸表における税引後利益の変動について説明を開示しています。報道によると、VCGを含む複数の主要建設企業は、今期の利益が「後退」または「下落」したとされています。",
+  "outlook": "建設業界全体では利益状況に多様性が見られる中、VCGの今後の業績動向が注目されます。純利益は大幅に減少しましたが、ROEは34.6%と高い水準にあり、同社が開示した利益変動に関する説明が市場の関心を集める可能性があります。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T09:42",
+    "title": "VCG: Giải trình chênh lệch LNST BCTC HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-08-02T17:46",
+    "title": "Ba \"ông lớn\" xây dựng cùng báo lãi “đi lùi”"
+   },
+   {
+    "source": "Doanh nghiệp & Kinh doanh",
+    "date": "2026-08-02T13:48",
+    "title": "Bức tranh lợi nhuận nhóm xây dựng: Vinaconex, Coteccon và Hoà Bình cùng tụt dốc, HHV hạ nhiệt sau quý lãi kỷ lục"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VSC:Q2/2026": {
+  "background": "Q2/2026において、Viconship (VSC) の純利益は前年同期比64.0%、前期比250.3%と大幅に増加し、税引き後利益は2440億ドンに達しました。売上高は6.7%の増加に留まったものの、売上高純利益率は28.3%と高い水準を維持しています。海港業界全体ではQ2および2026年上半期に利益が加速する傾向が見られ、VSCの業績もこの業界トレンドに沿ったものである可能性があります。",
+  "outlook": "VSCはHAHへの投資額を約2兆5,000億ドン近くに増やしており、これが今後の事業戦略や収益性に影響を与える可能性があります。また、業界平均PER11.9に対し、VSCのPERが15.9である点や、ROEが5.6%である点も、市場の評価や資本効率に関して注目される論点となり得るでしょう。",
+  "sources": [
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-08-05T17:07",
+    "title": "Doanh nghiệp cảng biển tăng tốc lợi nhuận, các cảng thuộc VIMC dẫn sóng"
+   },
+   {
+    "source": "Asean Times",
+    "date": "2026-08-01T18:10",
+    "title": "VSC: Viconship báo lãi tăng 64%, rót gần 2.500 tỷ đồng vào HAH"
+   }
+  ],
+  "method": "gemini"
+ },
+ "VTP:Q2/2026": {
+  "background": "VTPの2026年第2四半期は、売上高が前年同期比9.8%増と伸びた一方で、純利益は同25.0%減と大幅な減少となりました。上半期全体では純利益が33%減少しており、主に消費者物価や燃料費の高騰が要因として挙げられています。",
+  "outlook": "純利益は前四半期比では86.6%の増加を見せており、短期的な回復の兆候がうかがえるかもしれません。しかし、売上高純利益率が1.3%にとどまっていることから、燃料費などのコスト上昇が続く中で、今後の収益性改善が主な論点となりそうです。",
+  "sources": [
+   {
+    "source": "Asean Times",
+    "date": "2026-08-01T17:56",
+    "title": "VTP: Viettel Post giảm 30% lãi nửa đầu năm, tiền gửi ngân hàng tăng gấp 3 lần"
+   },
+   {
+    "source": "Nhà đầu tư",
+    "date": "2026-07-01T17:05",
+    "title": "Gemadept, Cảng Hải Phòng được dự báo bứt phá lợi nhuận quý II"
+   }
+  ],
+  "method": "gemini"
  }
 }
