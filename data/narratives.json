@@ -1966,5 +1966,27 @@
    }
   ],
   "method": "gemini"
+ },
+ "VPI:Q2/2026": {
+  "background": "VPIの2026年第2四半期は、売上が前年同期比373.5%増、純利益が同9952.7%増と大幅な増益を達成しました。同社は第2四半期の税引後利益の前期比変動について説明を行っており、報道では上半期も堅調な業績とともに、ホーチミン、フエ、ハイフォンでのプロジェクトに引き続き注力する方針が示されています。また、当四半期中には150億ドン相当の社債発行も完了しています。",
+  "outlook": "大幅な増益を達成した一方で、PERが業種平均を大きく上回る50.2となっており、今後の業績変動要因や持続的な成長への期待が市場で注目される可能性があります。当四半期中に完了した社債発行が、今後の主要プロジェクトへの資金供給や財務状況にどのように影響するかが論点となりそうです。",
+  "sources": [
+   {
+    "source": "HSX",
+    "date": "2026-07-31T09:57",
+    "title": "VPI: Giải trình chênh lệch LNST BCTC HN và Riêng quý 2/2026 so với cùng kỳ năm trước"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-07-31T10:02",
+    "title": "VPI: Văn Phú báo lãi gần 200 tỷ đồng trong 6 tháng đầu năm, tiếp tục tập trung cho các dự án tại TPHCM, Huế, Hải Phòng"
+   },
+   {
+    "source": "Tạp chí Nhịp sống thị trường",
+    "date": "2026-06-09T15:11",
+    "title": "VPI: Văn Phú huy động thành công 150 tỷ đồng trái phiếu, lãi suất 11,5%/năm"
+   }
+  ],
+  "method": "gemini"
  }
 }
