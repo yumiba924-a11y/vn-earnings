@@ -1,6 +1,6 @@
 {
  "quarter": "Q2/2026",
- "updated": "2026-08-15 22:02",
+ "updated": "2026-08-16 09:01",
  "fx_vnd_per_jpy": 163.89,
  "fx_asof": "Sat, 15 Aug 2026",
  "count": 100,
@@ -1857,10 +1857,10 @@
    "pbr": 0.98,
    "pbr_ind": 1.26,
    "roe": 15.0,
-   "roe_ind": 14.6,
+   "roe_ind": 14.5,
    "peg": 0.02,
    "net_margin": 18.3,
-   "net_margin_ind": 13.2,
+   "net_margin_ind": 13.1,
    "op_margin": 20.4,
    "foreign": 4.5,
    "mktcap": 40648955366000.0,
@@ -3521,74 +3521,6 @@
    ]
   },
   {
-   "symbol": "NT2",
-   "name": "PV POWER NT2",
-   "name_ja": "PVパワーNT2(ニョンチャック2)",
-   "intl": "PetroVietnam Power NhonTrach 2 Joint Stock Company",
-   "sector": "電力・ガス・水道",
-   "tier": "tier2",
-   "quarter": "Q2/2026",
-   "sales": 2824544836484,
-   "sales_jpy": 17234450178.04866,
-   "sales_yoy": 35.7,
-   "npat": 402997781475,
-   "npat_jpy": 2458960855.208351,
-   "npat_yoy": 23.5,
-   "npat_qoq": 123.9,
-   "per": 5.0,
-   "per_ind": 8.2,
-   "pbr": 1.13,
-   "pbr_ind": 1.26,
-   "roe": 25.2,
-   "roe_ind": 14.6,
-   "peg": 0.21,
-   "net_margin": 14.3,
-   "net_margin_ind": 13.2,
-   "op_margin": 17.8,
-   "foreign": 10.3,
-   "mktcap": 6102971814800.0,
-   "mktcap_jpy": 37238340960.852234,
-   "verdict": "○ 増収増益・割安",
-   "npat_peak": false,
-   "hist_q": 5,
-   "detected": "2026-07-23",
-   "background": "NT2は2026年第2四半期に売上高35.7%増（YoY）、純利益23.5%増（YoY）を達成し、前期比では123.9%増となりました。この業績は、電力セクターを含む上半期決算発表が本格化した時期に開示され、同社は利益変動について公式開示で説明を行っています。",
-   "outlook": "業界全体では、猛暑が収益発表シーズンを活性化させた一方で、電力セクターが高水準の利益を維持することは難しいとの見方があります。特に熱電グループは業績が二極化すると予測されており、NT2が今後も安定した収益性を維持できるかが注目されます。",
-   "sources": [
-    {
-     "source": "HSX",
-     "date": "2026-04-21T17:56",
-     "title": "NT2: Bổ sung BCTC quý 1/2026 kèm giải trình KQKD quý 1/2026"
-    },
-    {
-     "source": "Tạp chí Nhịp sống thị trường",
-     "date": "2026-07-21T18:39",
-     "title": "Cập nhật BCTC quý 2/2026 chiều tối ngày 21/7: Techcombank lãi trước thuế gần 9.700 tỷ đồng, doanh nghiệp của tỷ phú Phạm Nhật Vượng báo lãi tăng 15%"
-    },
-    {
-     "source": "Vietnam Finance",
-     "date": "2026-07-08T23:56",
-     "title": "Nắng nóng kích hoạt mùa báo lãi, lợi nhuận ngành điện vẫn khó duy trì mức cao"
-    }
-   ],
-   "method": "gemini",
-   "record_evidence": null,
-   "buzz_today": 21,
-   "buzz_ratio": 2.3,
-   "tags": [
-    {
-     "label": "ホット",
-     "icon": "🔥",
-     "cls": "hot"
-    },
-    {
-     "label": "割安",
-     "icon": "💎",
-     "cls": "cheap"
-    }
-   ]
-  },
-  {
    "symbol": "HT1",
    "name": "Vicem Ha tien  J.S.CO.",
    "name_ja": "ハーティエンセメント",
@@ -4061,56 +3993,6 @@
    ]
   },
   {
-   "symbol": "DSE",
-   "name": "DNSE JSC",
-   "name_ja": "DNSE証券",
-   "intl": "DNSE Securities Joint Stock Company",
-   "sector": "証券",
-   "tier": "tier2",
-   "quarter": "Q2/2026",
-   "sales": 453085814352,
-   "sales_jpy": 2764581674.529344,
-   "sales_yoy": 56.1,
-   "npat": 83015782486,
-   "npat_jpy": 506535194.18996704,
-   "npat_yoy": 13.2,
-   "npat_qoq": 632.9,
-   "per": 39.3,
-   "per_ind": 14.0,
-   "pbr": 1.74,
-   "pbr_ind": 1.53,
-   "roe": 5.0,
-   "roe_ind": 13.1,
-   "peg": 2.98,
-   "net_margin": 18.3,
-   "net_margin_ind": 34.7,
-   "op_margin": 21.8,
-   "foreign": 10.6,
-   "mktcap": 9442908222300.0,
-   "mktcap_jpy": 57617542193.34634,
-   "verdict": "○ 増収増益",
-   "npat_peak": false,
-   "hist_q": 5,
-   "detected": "2026-07-23",
-   "background": "DNSE証券の2026年第2四半期決算では、売上高が前年同期比56.1%増となり、上半期全体での売上高は約59%増加しました。純利益は前年同期比13.2%増、前期比では632.9%増と大幅に伸長し、売上高純利益率は18.3%を記録しました。これは、Q1/2026からの売上高成長の勢いを維持していると報じられています。",
-   "outlook": "しかしながら、PERが38.8と業種平均の14.1と比較して高い水準にあり、ROEは5.0%に留まっています。今後の市場環境と合わせて、収益性の持続や株価の評価については引き続き検討の余地があるかもしれません。",
-   "sources": [
-    {
-     "source": "Asean Times",
-     "date": "2026-07-21T14:06",
-     "title": "Doanh thu hoạt động DNSE tăng gần 60% trong 6 tháng đầu năm"
-    },
-    {
-     "source": "Vietnam+",
-     "date": "2026-04-18T11:46",
-     "title": "DNSE nối tiếp đà tăng trưởng doanh thu và dư nợ margin"
-    }
-   ],
-   "method": "gemini",
-   "record_evidence": null,
-   "tags": []
-  },
-  {
    "symbol": "GEX",
    "name": "Tập đoàn GELEX",
    "name_ja": "",
@@ -4217,6 +4099,56 @@
      "source": "Tạp chí Nhịp sống thị trường",
      "date": "2026-07-06T22:46",
      "title": "Dự báo lợi nhuận quý 2 của 57 doanh nghiệp \"hot\": Hai cái tên có thể tăng trưởng trên 700%"
+    }
+   ],
+   "method": "gemini",
+   "record_evidence": null,
+   "tags": []
+  },
+  {
+   "symbol": "DSE",
+   "name": "DNSE JSC",
+   "name_ja": "DNSE証券",
+   "intl": "DNSE Securities Joint Stock Company",
+   "sector": "証券",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 453085814352,
+   "sales_jpy": 2764581674.529344,
+   "sales_yoy": 56.1,
+   "npat": 81800782486,
+   "npat_jpy": 499121660.9736223,
+   "npat_yoy": 11.5,
+   "npat_qoq": 622.2,
+   "per": 39.5,
+   "per_ind": 14.0,
+   "pbr": 1.74,
+   "pbr_ind": 1.53,
+   "roe": 5.0,
+   "roe_ind": 13.1,
+   "peg": 3.43,
+   "net_margin": 18.1,
+   "net_margin_ind": 34.7,
+   "op_margin": 21.5,
+   "foreign": 10.6,
+   "mktcap": 9442908222300.0,
+   "mktcap_jpy": 57617542193.34634,
+   "verdict": "○ 増収増益",
+   "npat_peak": false,
+   "hist_q": 5,
+   "detected": "2026-07-23",
+   "background": "DNSE証券の2026年第2四半期決算では、売上高が前年同期比56.1%増となり、上半期全体での売上高は約59%増加しました。純利益は前年同期比13.2%増、前期比では632.9%増と大幅に伸長し、売上高純利益率は18.3%を記録しました。これは、Q1/2026からの売上高成長の勢いを維持していると報じられています。",
+   "outlook": "しかしながら、PERが38.8と業種平均の14.1と比較して高い水準にあり、ROEは5.0%に留まっています。今後の市場環境と合わせて、収益性の持続や株価の評価については引き続き検討の余地があるかもしれません。",
+   "sources": [
+    {
+     "source": "Asean Times",
+     "date": "2026-07-21T14:06",
+     "title": "Doanh thu hoạt động DNSE tăng gần 60% trong 6 tháng đầu năm"
+    },
+    {
+     "source": "Vietnam+",
+     "date": "2026-04-18T11:46",
+     "title": "DNSE nối tiếp đà tăng trưởng doanh thu và dư nợ margin"
     }
    ],
    "method": "gemini",
@@ -4359,10 +4291,10 @@
    "pbr": 1.32,
    "pbr_ind": 1.26,
    "roe": 10.7,
-   "roe_ind": 14.6,
+   "roe_ind": 14.5,
    "peg": 1.84,
    "net_margin": 32.2,
-   "net_margin_ind": 13.2,
+   "net_margin_ind": 13.1,
    "op_margin": 36.5,
    "foreign": 49.0,
    "mktcap": 28591065752400.0,
@@ -4548,6 +4480,74 @@
    "method": "gemini",
    "record_evidence": null,
    "tags": []
+  },
+  {
+   "symbol": "NT2",
+   "name": "PV POWER NT2",
+   "name_ja": "PVパワーNT2(ニョンチャック2)",
+   "intl": "PetroVietnam Power NhonTrach 2 Joint Stock Company",
+   "sector": "電力・ガス・水道",
+   "tier": "tier2",
+   "quarter": "Q2/2026",
+   "sales": 2824544836484,
+   "sales_jpy": 17234450178.04866,
+   "sales_yoy": 35.7,
+   "npat": 307764848229,
+   "npat_jpy": 1877880596.8469017,
+   "npat_yoy": -5.7,
+   "npat_qoq": 71.0,
+   "per": 5.0,
+   "per_ind": 8.2,
+   "pbr": 1.13,
+   "pbr_ind": 1.26,
+   "roe": 25.2,
+   "roe_ind": 14.6,
+   "peg": null,
+   "net_margin": 10.9,
+   "net_margin_ind": 13.2,
+   "op_margin": 13.6,
+   "foreign": 10.3,
+   "mktcap": 6102971814800.0,
+   "mktcap_jpy": 37238340960.852234,
+   "verdict": "▲ 減益",
+   "npat_peak": false,
+   "hist_q": 5,
+   "detected": "2026-07-23",
+   "background": "NT2は2026年第2四半期に売上高35.7%増（YoY）、純利益23.5%増（YoY）を達成し、前期比では123.9%増となりました。この業績は、電力セクターを含む上半期決算発表が本格化した時期に開示され、同社は利益変動について公式開示で説明を行っています。",
+   "outlook": "業界全体では、猛暑が収益発表シーズンを活性化させた一方で、電力セクターが高水準の利益を維持することは難しいとの見方があります。特に熱電グループは業績が二極化すると予測されており、NT2が今後も安定した収益性を維持できるかが注目されます。",
+   "sources": [
+    {
+     "source": "HSX",
+     "date": "2026-04-21T17:56",
+     "title": "NT2: Bổ sung BCTC quý 1/2026 kèm giải trình KQKD quý 1/2026"
+    },
+    {
+     "source": "Tạp chí Nhịp sống thị trường",
+     "date": "2026-07-21T18:39",
+     "title": "Cập nhật BCTC quý 2/2026 chiều tối ngày 21/7: Techcombank lãi trước thuế gần 9.700 tỷ đồng, doanh nghiệp của tỷ phú Phạm Nhật Vượng báo lãi tăng 15%"
+    },
+    {
+     "source": "Vietnam Finance",
+     "date": "2026-07-08T23:56",
+     "title": "Nắng nóng kích hoạt mùa báo lãi, lợi nhuận ngành điện vẫn khó duy trì mức cao"
+    }
+   ],
+   "method": "gemini",
+   "record_evidence": null,
+   "buzz_today": 21,
+   "buzz_ratio": 2.3,
+   "tags": [
+    {
+     "label": "ホット",
+     "icon": "🔥",
+     "cls": "hot"
+    },
+    {
+     "label": "割安",
+     "icon": "💎",
+     "cls": "cheap"
+    }
+   ]
   },
   {
    "symbol": "VHC",
